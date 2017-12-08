@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="695aa746-1da1-4052-89b2-b2bbdda85d64" Title="AntaresMaps.Map" Url="html/be7a7e02-5c51-c16a-4e4d-bb01862b23a0.htm">
+    <HelpTOCNode Id="0371fc9b-feb4-447a-b43b-b02327510910" Title="AntaresMapOptions Class" Url="html/42dac42e-0f70-2ff2-acd0-17912ed39b29.htm">
+      <HelpTOCNode Title="AntaresMapOptions Constructor " Url="html/c93eb3a9-120a-131c-acaf-4c81f9aefb2f.htm" />
+      <HelpTOCNode Id="ece0945a-a238-44d7-8652-8fb631d595e9" Title="AntaresMapOptions Methods" Url="html/7ccfbc51-a332-3e08-771a-e12064d1e4ee.htm">
+        <HelpTOCNode Title="Camera Method " Url="html/a6d0ebcd-a27d-cab4-aacf-82e562564a47.htm" />
+        <HelpTOCNode Title="DoubleTapGesturesEnabled Method " Url="html/25ba33b1-353f-7718-65ff-f22081d29249.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/ca717e21-6af0-b2ea-6d91-56aa49be0a83.htm" />
+        <HelpTOCNode Title="GetCamera Method " Url="html/4e615a31-ef92-4ca1-c4ff-6c5a42f82d95.htm" />
+        <HelpTOCNode Title="GetCameraOrDefault Method " Url="html/97559681-c8af-4106-ad14-a023fa737c2e.htm" />
+        <HelpTOCNode Title="GetDoubleTapGesturesEnabled Method " Url="html/83288a13-7a47-04c5-188b-d3cd115f780c.htm" />
+        <HelpTOCNode Title="GetDoubleTapGesturesEnabledOrDefault Method " Url="html/f63a3777-3d5a-e4b6-cf91-59a8843c263d.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/cf200b5f-804f-2a56-6e74-58224d5cc80a.htm" />
+        <HelpTOCNode Title="GetMaxZoomPreference Method " Url="html/f417557e-8f05-8017-833d-f5662dca7641.htm" />
+        <HelpTOCNode Title="GetMaxZoomPreferenceOrDefault Method " Url="html/f8f54348-3916-580b-4fa3-8e964b71e326.htm" />
+        <HelpTOCNode Title="GetMinZoomPreference Method " Url="html/4036b5f3-f3eb-aad6-b75f-22af11268bc3.htm" />
+        <HelpTOCNode Title="GetMinZoomPreferenceOrDefault Method " Url="html/63af4b8a-245d-ec16-270c-6263c1056629.htm" />
+        <HelpTOCNode Title="GetRotateGesturesEnabled Method " Url="html/b264e170-9824-b00b-9f62-5f7d6d8a67d2.htm" />
+        <HelpTOCNode Title="GetRotateGesturesEnabledOrDefault Method " Url="html/88499900-37bb-98ae-09df-35feab825c42.htm" />
+        <HelpTOCNode Title="GetScrollGesturesEnabled Method " Url="html/88cb52dd-670b-951c-e412-48de50c18475.htm" />
+        <HelpTOCNode Title="GetScrollGesturesEnabledOrDefault Method " Url="html/c3091e23-eb21-daea-6849-75abfcff3ebb.htm" />
+        <HelpTOCNode Title="GetStyleUrl Method " Url="html/29c39505-c43d-cf3b-b9ec-acf3c0e1012a.htm" />
+        <HelpTOCNode Title="GetStyleUrlOrDefault Method " Url="html/7fff7747-d099-2025-c0ed-5d86f8eae512.htm" />
+        <HelpTOCNode Title="GetZoomGesturesEnabled Method " Url="html/1bcf45b7-6cb1-8a97-f471-84339ceb9fa2.htm" />
+        <HelpTOCNode Title="GetZoomGesturesEnabledOrDefault Method " Url="html/4b9a7a01-ed30-fe5c-5e6e-5dc6e93a397c.htm" />
+        <HelpTOCNode Title="MaxZoomPreference Method " Url="html/ae51d12b-cbe0-63b2-9e5e-60c2eb1df95f.htm" />
+        <HelpTOCNode Title="MinZoomPreference Method " Url="html/2c81f3d1-32e7-7cb2-d077-9bfd54a0483c.htm" />
+        <HelpTOCNode Title="RotateGesturesEnabled Method " Url="html/42b92341-636e-bae6-1c41-d7713d562531.htm" />
+        <HelpTOCNode Title="ScrollGesturesEnabled Method " Url="html/1aef5f2e-dcd1-1d21-38e8-8fa4832c8673.htm" />
+        <HelpTOCNode Title="StyleUrl Method " Url="html/2e1902ed-093f-7391-1d80-692da3e24e6e.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/13c85d17-c4fa-ea29-d189-e87d19590ed2.htm" />
+        <HelpTOCNode Title="ZoomGesturesEnabled Method " Url="html/106416c1-f2aa-33b4-0438-be673c18e470.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b3c64eb9-ceb2-47b3-9938-252394ab4dc3" Title="CameraMoveStartedEventArgs Class" Url="html/c3a3a514-f319-00d6-5532-f01e92bbbedf.htm">
+      <HelpTOCNode Id="0461890c-413c-49f3-8970-0090a3e37ca7" Title="CameraMoveStartedEventArgs Properties" Url="html/5da14681-6706-ec34-229f-6e895a3c3721.htm">
+        <HelpTOCNode Title="Reason Property " Url="html/79bc991a-0ba0-03dd-00d6-e2c18df0b45c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CameraMoveStartedEventArgs Methods" Url="html/fc20f04b-cf5b-cde7-5f07-5882acec74bd.htm" />
+      <HelpTOCNode Id="3beef69f-9479-42fb-9280-07a2c42b05f0" Title="CameraMoveStartedEventArgs Fields" Url="html/303e3cf3-fd6b-ee66-bbbf-af1323a51e67.htm">
+        <HelpTOCNode Title="ReasonApiAnimation Field" Url="html/0e46d2ae-6351-319b-f674-97462501714e.htm" />
+        <HelpTOCNode Title="ReasonDeveloperAnimation Field" Url="html/ea2ab054-2e31-f3de-289b-42ab5f037b8c.htm" />
+        <HelpTOCNode Title="ReasonGesture Field" Url="html/29a5cbfa-5363-5941-c29b-2fa080e12725.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7997613b-27fc-4423-90ed-dc511ccebb38" Title="CameraUpdateFactory Class" Url="html/7fa0546d-531b-f631-c3a6-c10fb976696f.htm">
+      <HelpTOCNode Title="CameraUpdateFactory Constructor " Url="html/99467222-9a85-95a0-c49b-752fe985a4a2.htm" />
+      <HelpTOCNode Id="4a3b2a19-570b-4e67-b7e1-2c15fd51605a" Title="CameraUpdateFactory Methods" Url="html/25843834-d49a-e0ef-55af-462a6ad7ee67.htm">
+        <HelpTOCNode Title="NewCameraPosition Method " Url="html/00bd59a4-6b09-0763-a2e8-5c2e25dca540.htm" />
+        <HelpTOCNode Title="NewLatLng Method " Url="html/fe610d49-a7a9-013c-5c18-bac20725ba46.htm" />
+        <HelpTOCNode Title="NewLatLngZoom Method " Url="html/8b2a94ef-1b2c-dd01-508d-87855580d746.htm" />
+        <HelpTOCNode Title="ScrollBy Method " Url="html/66af5c6c-a9db-824a-455e-c566f4d780bd.htm" />
+        <HelpTOCNode Id="46fe005b-8c30-403e-b1a0-7a29ec56a546" Title="ZoomBy Method " Url="html/5c4d5e9c-1c70-a9ea-2e9f-4dfde79992a1.htm">
+          <HelpTOCNode Title="ZoomBy Method (Double)" Url="html/56607543-0a87-55d3-5b44-27a10b26e31b.htm" />
+          <HelpTOCNode Title="ZoomBy Method (Double, SKPoint)" Url="html/e543a773-477a-9ab4-8cc3-ff8c8b2ea86f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ZoomIn Method " Url="html/450449e9-5878-1c86-9560-3f95a1a6b26b.htm" />
+        <HelpTOCNode Title="ZoomOut Method " Url="html/04094214-0f3c-c665-c900-cdfad3a5f32c.htm" />
+        <HelpTOCNode Title="ZoomTo Method " Url="html/cd10de27-e9ee-1fc7-6e3f-e9ad6f2c43b2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7d87bd2a-3654-486f-89c2-06ad3bf335e7" Title="ICameraUpdate Interface" Url="html/06f93812-996f-4642-a506-11d83df9b8bf.htm">
+      <HelpTOCNode Id="6d3dd9da-cbc3-4739-b3a4-09c3c24c72ba" Title="ICameraUpdate Methods" Url="html/e5d4e261-6539-731a-ee18-0c7cf53634ce.htm">
+        <HelpTOCNode Title="GetCameraPosition Method " Url="html/988207f3-0f0d-117d-da8d-c94628228a71.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="04339b51-5d9a-47d9-ac77-9e3895faf620" Title="IMapView Interface" Url="html/9fb4afce-0ca3-1493-bc1a-335ce55407c5.htm">
+      <HelpTOCNode Id="5ef572d6-b109-4871-8151-e1a03be01ab1" Title="IMapView Properties" Url="html/6459d678-5ed3-06ae-210d-ee2208754250.htm">
+        <HelpTOCNode Title="CameraPosition Property " Url="html/3ccebcbc-2a1a-28c4-a67c-20c6313a105a.htm" />
+        <HelpTOCNode Title="MapProjection Property " Url="html/5345a76a-7ca5-ea02-a2a5-77edbe7264c0.htm" />
+        <HelpTOCNode Title="StyleUrl Property " Url="html/f3103e49-6bc4-171c-d648-58738056b324.htm" />
+        <HelpTOCNode Title="UiSettings Property " Url="html/449a0fef-78f3-138d-50e0-5b5cf7409332.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3bf243fd-a053-49f1-844e-d1a4e9dfcc61" Title="IMapView Methods" Url="html/b69d14b0-c25f-9ec0-4b06-607de29a5a54.htm">
+        <HelpTOCNode Title="RefreshStyle Method " Url="html/5703a57b-a749-d2f0-dc72-8e4854e9d85e.htm" />
+        <HelpTOCNode Title="SetStyleJson Method " Url="html/5f36b87b-b4f9-9fbd-6f69-2e3a9dff6056.htm" />
+        <HelpTOCNode Title="SetStyleUrl Method " Url="html/47212b08-6f3b-4d2e-dfc8-27d8aae81d2d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e78baf13-f032-41c1-b86f-cc1d38552c80" Title="MapView Class" Url="html/a502964e-618e-8b76-f65a-977bb372605e.htm">
+      <HelpTOCNode Id="46379359-e904-4207-90df-f52cc2db9189" Title="MapView Constructor " Url="html/df68bdb9-c704-464d-ee06-87ff822eb6a7.htm">
+        <HelpTOCNode Title="MapView Constructor " Url="html/2033c536-ecec-f40e-6963-3f1ec97b35c0.htm" />
+        <HelpTOCNode Title="MapView Constructor (AntaresMapOptions)" Url="html/8b38ba42-e80e-f062-667c-0a72340e1b47.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0990f394-48ff-4262-93e6-6be3b13d8f73" Title="MapView Properties" Url="html/b226cf4b-9bac-f2ee-bae8-03536a1207db.htm">
+        <HelpTOCNode Title="CameraPosition Property " Url="html/77a72ae7-11e9-e1fb-4454-f21f353b1ebf.htm" />
+        <HelpTOCNode Title="MapProjection Property " Url="html/8dd7d930-c86d-f2af-6b3a-2e51fda82c3a.htm" />
+        <HelpTOCNode Title="MaxZoomLevel Property " Url="html/ee2a8a0b-6436-d073-956f-44c97bd1422f.htm" />
+        <HelpTOCNode Title="MinZoomLevel Property " Url="html/a4e930d2-6c72-33f4-5fec-864da12f7f4f.htm" />
+        <HelpTOCNode Title="StyleUrl Property " Url="html/0a3c9181-fbcf-975e-fb30-5e6e493350cb.htm" />
+        <HelpTOCNode Title="UiSettings Property " Url="html/1802dba7-1b94-66f4-abb8-b979073ec092.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="afba4e24-2f50-4a79-8e40-af7421c97cc6" Title="MapView Methods" Url="html/e6614e60-69da-921f-33a2-7eea3869e148.htm">
+        <HelpTOCNode Title="AddMarker Method " Url="html/f74e4dd3-0532-1171-22ce-6fee44512fbb.htm" />
+        <HelpTOCNode Title="AddPolyline Method " Url="html/9f7ed098-8787-5ff4-fce5-826b207a7ef7.htm" />
+        <HelpTOCNode Title="AnimateCamera Method " Url="html/490421c0-21bf-7289-e0e7-36d004f36618.htm" />
+        <HelpTOCNode Title="Clear Method " Url="html/2e1f8bc3-1e86-cf29-1907-b037585789ae.htm" />
+        <HelpTOCNode Title="Connect Method " Url="html/5b316ee1-5115-e1e3-4de9-9f61bb4e945e.htm" />
+        <HelpTOCNode Title="GetBindingConnector Method " Url="html/b883922c-d95c-040f-538d-a324efa6ec49.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/d010d59d-ac81-1a7e-3099-2292f323be8d.htm" />
+        <HelpTOCNode Title="Invalidate Method " Url="html/85641919-c6bc-63c0-5f9c-816dbef678d8.htm" />
+        <HelpTOCNode Title="MoveCamera Method " Url="html/3c0c85a0-9986-0bf6-bb70-97b83fc91fcb.htm" />
+        <HelpTOCNode Title="RefreshStyle Method " Url="html/fcd44b03-a8c9-85f3-ebcc-060a9a630b0c.htm" />
+        <HelpTOCNode Title="SetStyleJson Method " Url="html/3dff6e62-f6fb-3fb7-2a9d-510a2008fd6c.htm" />
+        <HelpTOCNode Title="SetStyleUrl Method " Url="html/5a8fa852-5798-3844-b5db-8af37dbf1dd4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="efa45fb1-66a4-44e3-8550-ad78d44b509c" Title="MapView Events" Url="html/ab3372c6-5455-52f9-14c3-1627fd222049.htm">
+        <HelpTOCNode Title="CameraIdle Event" Url="html/1c9214d1-beae-dff1-501e-6108d6008f63.htm" />
+        <HelpTOCNode Title="CameraMove Event" Url="html/60013a34-ee16-fd8c-14c0-84e3d3428e2e.htm" />
+        <HelpTOCNode Title="CameraMoveCanceled Event" Url="html/6a8d892c-014b-0051-f6ab-ea7fa1b67e56.htm" />
+        <HelpTOCNode Title="CameraMoveStarted Event" Url="html/4e1b576f-ec73-ba68-1eb6-8b278f9a889b.htm" />
+        <HelpTOCNode Title="MapClick Event" Url="html/1cb5c3cb-0587-c6df-8b63-bb7c09594384.htm" />
+        <HelpTOCNode Title="MapLongClick Event" Url="html/26f838e6-2ecb-fe8f-cc6c-e3f5da62fb89.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="355e522e-b3d1-4c1e-8ae1-e3324ee84289" Title="MapView.MapClickEventArgs Class" Url="html/60f66ca9-9d90-4481-886f-39217e402f52.htm">
+      <HelpTOCNode Id="bf66a4aa-2019-4817-b97b-eeb6fa1ad8f4" Title="MapClickEventArgs Properties" Url="html/f3c3e88b-d93a-8afa-7ebd-a43a2cae6df0.htm">
+        <HelpTOCNode Title="Point Property " Url="html/f458fc62-dfed-b914-f922-7d179df75bb7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MapClickEventArgs Methods" Url="html/a8d3311c-c7c9-4175-f297-4ccff469aa6a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8d25e0ef-1169-4fee-88b2-015a0fa085e8" Title="Projection Class" Url="html/f2bb8273-6731-d7de-46e4-873f69d5a224.htm">
+      <HelpTOCNode Id="6a38fe12-10b0-4c5a-a363-2598975b7985" Title="Projection Methods" Url="html/4b625d23-7c23-ad98-30e9-88c10750c7d8.htm">
+        <HelpTOCNode Title="FromScreenLocation Method " Url="html/5e5a16af-bca9-ca4c-b27e-6cce5bb09686.htm" />
+        <HelpTOCNode Title="GetVisibleRegion Method " Url="html/62ba2b9c-45b4-7700-184d-415a959aa4c4.htm" />
+        <HelpTOCNode Title="ToScreenLocation Method " Url="html/25d6dc91-2823-e60e-cd3a-1ec1168bd06e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b0813f10-e216-438b-aa28-1e8fb1c58480" Title="UiSettings Class" Url="html/35b15c34-ec36-03b2-b247-33f243e63b7b.htm">
+      <HelpTOCNode Id="f35dc324-26ba-47c1-a1d7-5b8b10a47b40" Title="UiSettings Properties" Url="html/b52b13e5-fd8b-6cdc-6436-5beed359f35b.htm">
+        <HelpTOCNode Title="DeselectMarkersOnTap Property " Url="html/87f7db16-4ed0-99d1-62f8-71a5dda59284.htm" />
+        <HelpTOCNode Title="DoubleTapGesturesEnabled Property " Url="html/7a381fb9-9aae-0e5b-6263-66801eb63c12.htm" />
+        <HelpTOCNode Title="RotateGesturesEnabled Property " Url="html/0a5bf006-8b72-01a7-bf44-c56b6efddb4c.htm" />
+        <HelpTOCNode Title="ScrollGesturesEnabled Property " Url="html/51ffedd6-dd94-793b-43ee-df402ee06d3c.htm" />
+        <HelpTOCNode Title="ZoomGesturesEnabled Property " Url="html/e5294a8f-4391-f084-4f14-e107ec713a28.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5c4a6fd8-b035-4412-877b-a8f7301770fb" Title="UiSettings Methods" Url="html/c92f22ce-5cdf-d454-4064-a2dbb37b7798.htm">
+        <HelpTOCNode Title="GetDensity Method " Url="html/0841c0b3-6f9a-fbe3-9c01-95a03e5666e3.htm" />
+        <HelpTOCNode Title="GetFocalPoint Method " Url="html/354e7956-5bb6-39e5-50ec-a588377585dd.htm" />
+        <HelpTOCNode Title="SetAllGesturesEnabled Method " Url="html/67aa3ff3-41b3-583f-24ec-ba139d0d3e33.htm" />
+        <HelpTOCNode Title="SetFocalPoint Method " Url="html/6d668197-b38e-9458-b87b-a419d8d963c7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c92a4dcf-14e2-4f78-97e5-3364cceff5d8" Title="AntaresMaps.Model" Url="html/215ea73a-fe45-aeaf-116e-22531003e3f2.htm">
+    <HelpTOCNode Id="a86b30c6-5727-4fe5-a9fe-90f0f0ce0224" Title="BitmapDescriptor Class" Url="html/8ca76c1a-c4bc-585a-ae1a-b71e2095dc92.htm">
+      <HelpTOCNode Id="bae14d69-6cf2-4254-a8d0-3b418a45814b" Title="BitmapDescriptor Properties" Url="html/cadaf45b-b780-56c2-1291-abb7b901e2fa.htm">
+        <HelpTOCNode Title="Bitmap Property " Url="html/0d27eaf1-7954-cad7-d72c-f0714135b7fb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5ad26556-17d8-4505-833e-9b9d0d492614" Title="BitmapDescriptor Methods" Url="html/914b0e65-7801-1374-d653-e8a0a8f87400.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/f98bd7a5-a346-e78a-b3cf-d270b40a65dc.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/88ce5734-29fd-f291-ed79-972c182b12f1.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/504213fd-441b-507b-f8f7-bd15a14798dd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e88c4c11-ff95-4a20-80b8-e06a7050ae9b" Title="BitmapDescriptorFactory Class" Url="html/8257a820-743f-7be9-9dd6-ca883d1348cd.htm">
+      <HelpTOCNode Title="BitmapDescriptorFactory Constructor " Url="html/1044d77a-fc5f-38c0-d34e-b7a1a40bb0a1.htm" />
+      <HelpTOCNode Id="0373cf1d-fb90-4295-a94c-5a29d3019129" Title="BitmapDescriptorFactory Methods" Url="html/0c4a75ed-20ee-03b7-601d-90c263f57a15.htm">
+        <HelpTOCNode Title="DefaultMarker Method " Url="html/00397b81-c7b2-851b-f4bb-eea862d63bd6.htm" />
+        <HelpTOCNode Title="FromAssetAsync Method " Url="html/6ee59b29-96c8-48b5-fa91-75c1682dae99.htm" />
+        <HelpTOCNode Title="FromResource Method " Url="html/2688bf23-7a58-19b5-29f5-8ca250bfb21e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8aabed6c-6926-499c-88b0-696225d1078a" Title="CameraPosition Class" Url="html/fe7ea32d-c951-b6d1-586a-c45d201cdba1.htm">
+      <HelpTOCNode Title="CameraPosition Constructor " Url="html/656fb439-c141-18bc-2591-4774be569baa.htm" />
+      <HelpTOCNode Id="8681a37b-7951-4656-abc8-2efcd7be1b57" Title="CameraPosition Properties" Url="html/1e288158-abe5-9696-136b-4cdfd24263aa.htm">
+        <HelpTOCNode Title="Bearing Property " Url="html/1527f3db-123e-d35c-2c2b-775f96684f6b.htm" />
+        <HelpTOCNode Title="Target Property " Url="html/a4e85075-c8e2-9664-7a51-3986d0c7cd6c.htm" />
+        <HelpTOCNode Title="Zoom Property " Url="html/c2a2744b-9519-979e-8903-ffdbc31d1bb5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="538c64ba-1a23-4bad-a8ed-d606c944430f" Title="CameraPosition Methods" Url="html/79696c51-b954-d163-aac7-fa5eaba57907.htm">
+        <HelpTOCNode Id="e3eeba1d-90f1-4ee1-9a38-aec8a1f0e8d2" Title="Builder Method " Url="html/86230382-82d9-b69c-d40d-f605d371e1f3.htm">
+          <HelpTOCNode Title="Builder Method " Url="html/d2d436f0-ebf9-29fc-7756-a2c3b1856aca.htm" />
+          <HelpTOCNode Title="Builder Method (CameraPosition)" Url="html/801722e2-d83b-6de3-cd7a-822fa743129d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Equals Method " Url="html/6a1dc974-9c51-1bde-1aef-21e02d5f3511.htm" />
+        <HelpTOCNode Title="FromLatLngZoom Method " Url="html/cd0f5fce-e738-6aa1-3f2f-aa0a2a5090f8.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/bd5eecaa-5e66-dd93-fdb3-1af867c26e25.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/1902f43f-755f-f12a-cb8d-d4aa96a290b7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="21c9552d-1b4c-4fb2-b55a-056bd4f720ac" Title="CameraPosition.CameraPositionBuilder Class" Url="html/53a69bd1-bcd2-978a-347e-818a733cd5a6.htm">
+      <HelpTOCNode Id="abc60115-279a-46cc-baf8-e28e2de8636f" Title="CameraPositionBuilder Constructor " Url="html/31827208-1aa4-411e-65f8-eeff2d543a24.htm">
+        <HelpTOCNode Title="CameraPosition.CameraPositionBuilder Constructor " Url="html/4d0801cf-142d-fd1a-0833-92d6eb9c4cf4.htm" />
+        <HelpTOCNode Title="CameraPosition.CameraPositionBuilder Constructor (CameraPosition)" Url="html/4023b2ac-93b0-b9b1-edac-7e51c9fc11cb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9fad1774-a290-4b85-a5c8-be5d4f6a0271" Title="CameraPositionBuilder Methods" Url="html/159e11f9-86d7-ee8e-08b9-80e5d73c296e.htm">
+        <HelpTOCNode Title="Bearing Method " Url="html/e2a14b46-139f-5b9e-7981-a4f806b0928d.htm" />
+        <HelpTOCNode Title="Build Method " Url="html/4be67fe0-f80e-83a4-7278-f85a4c91c2d5.htm" />
+        <HelpTOCNode Title="Target Method " Url="html/b3231e57-683e-4f6b-d249-f722670f9c2d.htm" />
+        <HelpTOCNode Title="Zoom Method " Url="html/dcb9694d-ca44-90c5-2816-09168219658d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="39694caa-d129-4dab-92d5-6b2a110aa99a" Title="LatLng Class" Url="html/aa7b97b8-70e9-951b-19db-fb071b5e4af9.htm">
+      <HelpTOCNode Id="cf13cad4-4cb1-49a1-a822-b587f7ed8025" Title="LatLng Constructor " Url="html/dab056a1-6b60-c35b-049d-75eff115ef87.htm">
+        <HelpTOCNode Title="LatLng Constructor (LatLng)" Url="html/39cb8c8f-a45c-29ac-8855-bd251a98e0bf.htm" />
+        <HelpTOCNode Title="LatLng Constructor (Double, Double)" Url="html/f6ad0cac-68c0-fbb3-4880-5417a377ca71.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="62545809-f00c-4c21-82df-e522d7108bf7" Title="LatLng Properties" Url="html/d40af45d-846e-a3ff-2461-74afd16213c1.htm">
+        <HelpTOCNode Title="Latitude Property " Url="html/18c4ed03-8729-c47a-7e7b-2dcec4a1c309.htm" />
+        <HelpTOCNode Title="Longitude Property " Url="html/93c57695-6cff-b6bf-bade-68e8f62f2614.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c3405f31-4e14-4fc7-8d79-4bf290dd4606" Title="LatLng Methods" Url="html/b2a1d326-b943-c83d-9c0a-f4641c27b1f9.htm">
+        <HelpTOCNode Title="BearingTo Method " Url="html/5bc47541-69eb-3db1-6e90-346b2c1ac3f3.htm" />
+        <HelpTOCNode Title="DistanceTo Method " Url="html/89c2836b-0e84-24c4-15f4-004c5522909a.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/db06e7d4-a39e-50eb-4f4d-32a7b7d36bc7.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/aa6a7797-dbc8-db5f-26ef-afd0d0d4d68b.htm" />
+        <HelpTOCNode Title="ToFormattedString Method " Url="html/53c6df65-1a7f-812b-a14e-78329afed58d.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/e36d4aaa-174e-c775-fdf1-c00855f8cf2c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b2c53292-5d03-482f-a708-72ade253237b" Title="LatLngBounds Class" Url="html/8f9fb4b8-0755-27e8-a46e-3f4ea6e068e1.htm">
+      <HelpTOCNode Title="LatLngBounds Constructor " Url="html/ddd67a33-c487-a973-d384-f3758e28aea7.htm" />
+      <HelpTOCNode Id="33580df1-4247-4b1e-8b0c-8d2718b3af39" Title="LatLngBounds Properties" Url="html/60dc4a7a-aef4-25b4-dc3a-3f58c46d2731.htm">
+        <HelpTOCNode Title="Center Property " Url="html/73e88cdf-4eb0-c8e2-32f3-b7c4ea3426ac.htm" />
+        <HelpTOCNode Title="LatitudeSpan Property " Url="html/6b4f6123-577a-ea32-9a2b-b6e9d53ef2e5.htm" />
+        <HelpTOCNode Title="LatNorth Property " Url="html/db0471c5-13aa-ec41-b0aa-44c1f403b8a5.htm" />
+        <HelpTOCNode Title="LatSouth Property " Url="html/7d7c3f91-fb46-bef9-cb57-82f85ba4d6a9.htm" />
+        <HelpTOCNode Title="LonEast Property " Url="html/6854f23c-45d9-f2e2-2a34-d7d2c21ffa4b.htm" />
+        <HelpTOCNode Title="LongitudeSpan Property " Url="html/cd8043d6-bd0d-5d64-26b7-7fbdad643b4c.htm" />
+        <HelpTOCNode Title="LonWest Property " Url="html/78c2d780-82a8-7e0d-1f7d-5423281bd3ec.htm" />
+        <HelpTOCNode Title="NorthEast Property " Url="html/5016bbfd-1eff-8b19-99ba-ebb702610c76.htm" />
+        <HelpTOCNode Title="SouthWest Property " Url="html/6b445f2d-10ba-fee1-ffe0-b1e374d69059.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0b24294a-ae96-42d6-9856-3295909c37eb" Title="LatLngBounds Methods" Url="html/4c7e3874-becb-ef00-3158-2c244978aea7.htm">
+        <HelpTOCNode Title="Builder Method " Url="html/303fb027-4391-fd29-176b-289fd36b5b7b.htm" />
+        <HelpTOCNode Title="Contains Method " Url="html/0d5eb668-ac43-4288-228e-a13626776712.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/3b9b0ff9-dbee-d8c8-2290-012248c3a6f8.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/f1b89d18-acea-5ac2-3851-1507be219078.htm" />
+        <HelpTOCNode Title="Including Method " Url="html/5001ad26-47d9-6fdb-f1a6-7463f1a0fd0d.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/9202cb62-3005-4e7c-9115-2fd4ebc8d8f6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1e0d08d7-ac27-4471-8a67-1f889da8f82e" Title="LatLngBounds.LatLngBoundsBuilder Class" Url="html/09d8df76-f793-cc98-7a59-303c82df005e.htm">
+      <HelpTOCNode Id="9ceaf116-7456-4f91-9f68-8445ececafd3" Title="LatLngBoundsBuilder Methods" Url="html/06b12c2a-ed65-c8ff-75a8-67ddaf5184e1.htm">
+        <HelpTOCNode Title="Build Method " Url="html/24e78a91-c638-a3bf-ed88-0fd81bac94f9.htm" />
+        <HelpTOCNode Title="Include Method " Url="html/26618e88-0305-787c-9b4c-ea5d5e9be5c3.htm" />
+        <HelpTOCNode Title="Includes Method " Url="html/7b2b901e-a9ad-87ae-5ac2-a94b8d62fac3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="60bfd593-aca7-4c24-93e8-ee8d6462fd1e" Title="Marker Class" Url="html/2f37f726-64f0-a6cb-42da-f2dcad750561.htm">
+      <HelpTOCNode Id="e98f0a15-f1b2-4dc5-b8ca-c251e2d10d9a" Title="Marker Properties" Url="html/f8c8d694-826b-9491-be86-0eb51da0796d.htm">
+        <HelpTOCNode Title="Alpha Property " Url="html/f5edb899-9b8c-9976-ff07-a7ceeb57ea40.htm" />
+        <HelpTOCNode Title="AnchorU Property " Url="html/689a1f50-723c-bbaf-05da-22751b18bae7.htm" />
+        <HelpTOCNode Title="AnchorV Property " Url="html/1deb8c1c-4fd9-4d6d-27ed-a5baffdafa66.htm" />
+        <HelpTOCNode Title="Icon Property " Url="html/7394d8a9-691f-0c98-d24a-fa71be808f91.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/e80f5cde-1b78-895b-2c2b-35b0f04256ed.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/7ee9e3a3-bd49-c68f-b8cc-475a431e2d08.htm" />
+        <HelpTOCNode Title="Tag Property " Url="html/3191a4c9-b758-df80-9f4b-c6b58c651a79.htm" />
+        <HelpTOCNode Title="Visible Property " Url="html/eea51207-4179-5844-0bfb-1ad7260b0655.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3a10c386-874e-44b6-98c6-ddc712273e38" Title="Marker Methods" Url="html/97401719-2f40-65c5-540d-f3ad1acdc98d.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/3c48e4f3-078d-7589-1824-8428635b1ffd.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/60fa8890-c27f-7a6c-a2e9-009ae5c899b5.htm" />
+        <HelpTOCNode Title="Remove Method " Url="html/bc58de7b-f635-0824-df95-230aecab0864.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/2a3b915b-700a-4ce8-0364-2d692063f177.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad785def-a0c8-43bc-8682-3c5bb3661dde" Title="MarkerOptions Class" Url="html/bec604c4-1203-f381-17f3-3819e9e67519.htm">
+      <HelpTOCNode Title="MarkerOptions Constructor " Url="html/21e8a0c6-ab02-4b60-9fc8-f311a768c661.htm" />
+      <HelpTOCNode Id="bc3cded7-0431-47ee-b7bd-3a8270c76784" Title="MarkerOptions Properties" Url="html/a0cc86da-18f1-4a7e-ee59-dab8d03b3c4e.htm">
+        <HelpTOCNode Title="Alpha Property " Url="html/f0c23440-db35-caf7-be64-a1cbf7526147.htm" />
+        <HelpTOCNode Title="AnchorU Property " Url="html/51e5e168-2c15-39e0-59e4-2e6a8cff5b6c.htm" />
+        <HelpTOCNode Title="AnchorV Property " Url="html/7740dbc0-27c2-0298-02b3-1c910c21fa31.htm" />
+        <HelpTOCNode Title="Icon Property " Url="html/49d92c23-b604-d046-7fb9-1e310e3a82ae.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/ac431476-5fc3-6bc1-9833-d9c9aba64486.htm" />
+        <HelpTOCNode Title="Visible Property " Url="html/a1c99824-4369-7450-0f9d-84de36706da7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MarkerOptions Methods" Url="html/41739e9d-30a1-029c-4320-40f0509087e6.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="12c35b4c-b135-4f26-b97b-dd67ba9d74c3" Title="Polyline Class" Url="html/f0a10308-e261-693e-50ad-fba634f2fa58.htm">
+      <HelpTOCNode Id="2c434814-1752-45c8-a854-c03c966141a2" Title="Polyline Properties" Url="html/36e40318-2062-edb0-8855-8f4f78362d28.htm">
+        <HelpTOCNode Title="Alpha Property " Url="html/9cbf8bff-8451-68b1-8d8d-e34ecce446b5.htm" />
+        <HelpTOCNode Title="Color Property " Url="html/49b60489-dc00-7612-824a-3c89f7b1af6a.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/51b5e77e-c87f-2513-35fa-c3aa3fd0ce46.htm" />
+        <HelpTOCNode Title="Points Property " Url="html/21a293e5-b39f-a385-0777-81e06a898e48.htm" />
+        <HelpTOCNode Title="Tag Property " Url="html/f0b86ada-d8c0-f588-2d38-aa9fafa5de70.htm" />
+        <HelpTOCNode Title="Visible Property " Url="html/8e8d0485-5f72-2639-18c1-ecc6ca517cd4.htm" />
+        <HelpTOCNode Title="Width Property " Url="html/c20ff069-5089-eb0b-ad48-e1f953287802.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="391a915c-e2fa-4caa-a5ae-ca5b38f2479c" Title="Polyline Methods" Url="html/a914b15d-6ec6-580c-499e-28e8ea3c7f75.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/2fe1c0b7-ad88-0b2b-bae2-c463136cf361.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/c09ebc86-f87c-8e99-ba0c-caaaa33679a5.htm" />
+        <HelpTOCNode Title="Remove Method " Url="html/62644baf-cb96-ea69-7e3f-08a7cc625344.htm" />
+        <HelpTOCNode Title="SetAlpha Method " Url="html/68a2c648-8f39-2fac-4813-bd3b0ec5241f.htm" />
+        <HelpTOCNode Title="SetColor Method " Url="html/33e9cde6-1d2f-5836-28c3-78748ea4ebce.htm" />
+        <HelpTOCNode Title="SetPoints Method " Url="html/cac0c7e4-6b87-363a-b0c8-459018c366e1.htm" />
+        <HelpTOCNode Title="SetWidth Method " Url="html/efb00139-46a0-d3fa-dd33-5b5018d94282.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/3f2c8565-2053-5c48-dc81-024eeafe3881.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e60ec47c-2eb5-4fa4-94c5-3528e6a7de4c" Title="PolylineOptions Class" Url="html/9590a516-75a3-e005-bd4a-0b3b05a57915.htm">
+      <HelpTOCNode Title="PolylineOptions Constructor " Url="html/64e5a134-55e2-f73d-4878-d6ec7749e6ec.htm" />
+      <HelpTOCNode Id="913ab1e4-eb2e-4a9d-9d94-36e909f4e4c7" Title="PolylineOptions Properties" Url="html/92d56c86-05a6-ab3a-eb55-b67bb198fc7a.htm">
+        <HelpTOCNode Title="Alpha Property " Url="html/c5ab62df-6766-582a-cc57-67f3bd6c11c8.htm" />
+        <HelpTOCNode Title="Color Property " Url="html/046c2cef-c091-a84b-9ead-f7e4260c5336.htm" />
+        <HelpTOCNode Title="Points Property " Url="html/cf5a1faf-49c0-d2ba-aa2c-c870633fb142.htm" />
+        <HelpTOCNode Title="Visible Property " Url="html/c540ec81-5d59-0184-6de8-2fb132531f6d.htm" />
+        <HelpTOCNode Title="Width Property " Url="html/8f5487e1-94c1-7bcd-e5cf-590967c2dae7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e96f7bc8-bebf-44ec-b148-153cf825fb24" Title="PolylineOptions Methods" Url="html/87557c14-b7a9-0e94-6974-560ab5d065a2.htm">
+        <HelpTOCNode Id="6aa3dc50-417d-4289-989d-f84c67218012" Title="Add Method " Url="html/430183ea-3d92-b159-7502-d2b2e97aa6ac.htm">
+          <HelpTOCNode Title="Add Method (LatLng)" Url="html/d2a81eb8-648b-9cf0-26ad-c2a401e36da7.htm" />
+          <HelpTOCNode Title="Add Method (LatLng[])" Url="html/2d7552af-f19a-0255-6ed7-41445c9822ff.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddAll Method " Url="html/dd43fc26-6ae1-1e3e-3a53-ae5007dcb849.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/6420f568-d48d-d852-1ccd-00695686973d.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/d52ca8c9-59da-4523-69b5-16d4b6e8c64a.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/d4991920-b2b4-59d7-6cfc-c85b620c7cae.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d6a04c7d-8a9c-4c8c-ae5e-8a741705ae0a" Title="VisibleRegion Class" Url="html/57911d22-ed8a-aa65-d123-e758d3aaa404.htm">
+      <HelpTOCNode Title="VisibleRegion Constructor " Url="html/4001c9ea-8cb8-e35b-ba6a-c20ccd50104a.htm" />
+      <HelpTOCNode Id="b545421d-7e40-465c-9fa9-1667b76529a1" Title="VisibleRegion Properties" Url="html/7526deed-d0d3-8960-e5d9-97d442b33a29.htm">
+        <HelpTOCNode Title="FarLeft Property " Url="html/4444cd6e-470d-8e38-8242-d5eed54914a8.htm" />
+        <HelpTOCNode Title="FarRight Property " Url="html/6d39ee68-0f40-108c-3384-955f961d027f.htm" />
+        <HelpTOCNode Title="LatLngbounds Property " Url="html/82ea8865-0a85-6478-5704-ad2b1a8392b5.htm" />
+        <HelpTOCNode Title="NearLeft Property " Url="html/84ce80dd-9569-c159-7d7b-677499cfa2b9.htm" />
+        <HelpTOCNode Title="NearRight Property " Url="html/74408e44-0a77-aa79-d668-9c5a5844fba4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c4c9aa40-a520-4269-ad74-083535d6dfda" Title="VisibleRegion Methods" Url="html/6ed308af-8571-600e-85a1-52f7c718c069.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/c181f75d-3c2f-fff5-2b9b-738b1220c7ae.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/084b0a2f-4b67-c968-fdc6-a7106f0fa860.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/601f619b-126a-3f8b-69ed-5e1316a493ca.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

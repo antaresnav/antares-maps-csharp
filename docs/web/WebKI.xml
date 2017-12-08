@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method" Url="html/430183ea-3d92-b159-7502-d2b2e97aa6ac.htm" />
+  <HelpKINode Title="AddAll method" Url="html/dd43fc26-6ae1-1e3e-3a53-ae5007dcb849.htm" />
+  <HelpKINode Title="AddMarker method" Url="html/f74e4dd3-0532-1171-22ce-6fee44512fbb.htm" />
+  <HelpKINode Title="AddPolyline method" Url="html/9f7ed098-8787-5ff4-fce5-826b207a7ef7.htm" />
+  <HelpKINode Title="Alpha property">
+    <HelpKINode Title="Marker.Alpha Property " Url="html/f5edb899-9b8c-9976-ff07-a7ceeb57ea40.htm" />
+    <HelpKINode Title="MarkerOptions.Alpha Property " Url="html/f0c23440-db35-caf7-be64-a1cbf7526147.htm" />
+    <HelpKINode Title="Polyline.Alpha Property " Url="html/9cbf8bff-8451-68b1-8d8d-e34ecce446b5.htm" />
+    <HelpKINode Title="PolylineOptions.Alpha Property " Url="html/c5ab62df-6766-582a-cc57-67f3bd6c11c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AnchorU property">
+    <HelpKINode Title="Marker.AnchorU Property " Url="html/689a1f50-723c-bbaf-05da-22751b18bae7.htm" />
+    <HelpKINode Title="MarkerOptions.AnchorU Property " Url="html/51e5e168-2c15-39e0-59e4-2e6a8cff5b6c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AnchorV property">
+    <HelpKINode Title="Marker.AnchorV Property " Url="html/1deb8c1c-4fd9-4d6d-27ed-a5baffdafa66.htm" />
+    <HelpKINode Title="MarkerOptions.AnchorV Property " Url="html/7740dbc0-27c2-0298-02b3-1c910c21fa31.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AnimateCamera method" Url="html/490421c0-21bf-7289-e0e7-36d004f36618.htm" />
+  <HelpKINode Title="AntaresMapOptions class">
+    <HelpKINode Title="AntaresMapOptions Class" Url="html/42dac42e-0f70-2ff2-acd0-17912ed39b29.htm" />
+    <HelpKINode Title="about AntaresMapOptions class" Url="html/42dac42e-0f70-2ff2-acd0-17912ed39b29.htm" />
+    <HelpKINode Title="constructor" Url="html/c93eb3a9-120a-131c-acaf-4c81f9aefb2f.htm" />
+    <HelpKINode Title="methods" Url="html/7ccfbc51-a332-3e08-771a-e12064d1e4ee.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AntaresMapOptions.AntaresMapOptions constructor" Url="html/c93eb3a9-120a-131c-acaf-4c81f9aefb2f.htm" />
+  <HelpKINode Title="AntaresMapOptions.Camera method" Url="html/a6d0ebcd-a27d-cab4-aacf-82e562564a47.htm" />
+  <HelpKINode Title="AntaresMapOptions.DoubleTapGesturesEnabled method" Url="html/25ba33b1-353f-7718-65ff-f22081d29249.htm" />
+  <HelpKINode Title="AntaresMapOptions.Equals method" Url="html/ca717e21-6af0-b2ea-6d91-56aa49be0a83.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetCamera method" Url="html/4e615a31-ef92-4ca1-c4ff-6c5a42f82d95.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetCameraOrDefault method" Url="html/97559681-c8af-4106-ad14-a023fa737c2e.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetDoubleTapGesturesEnabled method" Url="html/83288a13-7a47-04c5-188b-d3cd115f780c.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetDoubleTapGesturesEnabledOrDefault method" Url="html/f63a3777-3d5a-e4b6-cf91-59a8843c263d.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetHashCode method" Url="html/cf200b5f-804f-2a56-6e74-58224d5cc80a.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetMaxZoomPreference method" Url="html/f417557e-8f05-8017-833d-f5662dca7641.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetMaxZoomPreferenceOrDefault method" Url="html/f8f54348-3916-580b-4fa3-8e964b71e326.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetMinZoomPreference method" Url="html/4036b5f3-f3eb-aad6-b75f-22af11268bc3.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetMinZoomPreferenceOrDefault method" Url="html/63af4b8a-245d-ec16-270c-6263c1056629.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetRotateGesturesEnabled method" Url="html/b264e170-9824-b00b-9f62-5f7d6d8a67d2.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetRotateGesturesEnabledOrDefault method" Url="html/88499900-37bb-98ae-09df-35feab825c42.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetScrollGesturesEnabled method" Url="html/88cb52dd-670b-951c-e412-48de50c18475.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetScrollGesturesEnabledOrDefault method" Url="html/c3091e23-eb21-daea-6849-75abfcff3ebb.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetStyleUrl method" Url="html/29c39505-c43d-cf3b-b9ec-acf3c0e1012a.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetStyleUrlOrDefault method" Url="html/7fff7747-d099-2025-c0ed-5d86f8eae512.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetZoomGesturesEnabled method" Url="html/1bcf45b7-6cb1-8a97-f471-84339ceb9fa2.htm" />
+  <HelpKINode Title="AntaresMapOptions.GetZoomGesturesEnabledOrDefault method" Url="html/4b9a7a01-ed30-fe5c-5e6e-5dc6e93a397c.htm" />
+  <HelpKINode Title="AntaresMapOptions.MaxZoomPreference method" Url="html/ae51d12b-cbe0-63b2-9e5e-60c2eb1df95f.htm" />
+  <HelpKINode Title="AntaresMapOptions.MinZoomPreference method" Url="html/2c81f3d1-32e7-7cb2-d077-9bfd54a0483c.htm" />
+  <HelpKINode Title="AntaresMapOptions.RotateGesturesEnabled method" Url="html/42b92341-636e-bae6-1c41-d7713d562531.htm" />
+  <HelpKINode Title="AntaresMapOptions.ScrollGesturesEnabled method" Url="html/1aef5f2e-dcd1-1d21-38e8-8fa4832c8673.htm" />
+  <HelpKINode Title="AntaresMapOptions.StyleUrl method" Url="html/2e1902ed-093f-7391-1d80-692da3e24e6e.htm" />
+  <HelpKINode Title="AntaresMapOptions.ToString method" Url="html/13c85d17-c4fa-ea29-d189-e87d19590ed2.htm" />
+  <HelpKINode Title="AntaresMapOptions.ZoomGesturesEnabled method" Url="html/106416c1-f2aa-33b4-0438-be673c18e470.htm" />
+  <HelpKINode Title="AntaresMaps.Map namespace" Url="html/be7a7e02-5c51-c16a-4e4d-bb01862b23a0.htm" />
+  <HelpKINode Title="AntaresMaps.Map.AntaresMapOptions class" Url="html/42dac42e-0f70-2ff2-acd0-17912ed39b29.htm" />
+  <HelpKINode Title="AntaresMaps.Map.CameraMoveStartedEventArgs class" Url="html/c3a3a514-f319-00d6-5532-f01e92bbbedf.htm" />
+  <HelpKINode Title="AntaresMaps.Map.CameraUpdateFactory class" Url="html/7fa0546d-531b-f631-c3a6-c10fb976696f.htm" />
+  <HelpKINode Title="AntaresMaps.Map.ICameraUpdate interface" Url="html/06f93812-996f-4642-a506-11d83df9b8bf.htm" />
+  <HelpKINode Title="AntaresMaps.Map.IMapView interface" Url="html/9fb4afce-0ca3-1493-bc1a-335ce55407c5.htm" />
+  <HelpKINode Title="AntaresMaps.Map.MapView class" Url="html/a502964e-618e-8b76-f65a-977bb372605e.htm" />
+  <HelpKINode Title="AntaresMaps.Map.MapView.MapClickEventArgs class" Url="html/60f66ca9-9d90-4481-886f-39217e402f52.htm" />
+  <HelpKINode Title="AntaresMaps.Map.Projection class" Url="html/f2bb8273-6731-d7de-46e4-873f69d5a224.htm" />
+  <HelpKINode Title="AntaresMaps.Map.UiSettings class" Url="html/35b15c34-ec36-03b2-b247-33f243e63b7b.htm" />
+  <HelpKINode Title="AntaresMaps.Model namespace" Url="html/215ea73a-fe45-aeaf-116e-22531003e3f2.htm" />
+  <HelpKINode Title="AntaresMaps.Model.BitmapDescriptor class" Url="html/8ca76c1a-c4bc-585a-ae1a-b71e2095dc92.htm" />
+  <HelpKINode Title="AntaresMaps.Model.BitmapDescriptorFactory class" Url="html/8257a820-743f-7be9-9dd6-ca883d1348cd.htm" />
+  <HelpKINode Title="AntaresMaps.Model.CameraPosition class" Url="html/fe7ea32d-c951-b6d1-586a-c45d201cdba1.htm" />
+  <HelpKINode Title="AntaresMaps.Model.CameraPosition.CameraPositionBuilder class" Url="html/53a69bd1-bcd2-978a-347e-818a733cd5a6.htm" />
+  <HelpKINode Title="AntaresMaps.Model.LatLng class" Url="html/aa7b97b8-70e9-951b-19db-fb071b5e4af9.htm" />
+  <HelpKINode Title="AntaresMaps.Model.LatLngBounds class" Url="html/8f9fb4b8-0755-27e8-a46e-3f4ea6e068e1.htm" />
+  <HelpKINode Title="AntaresMaps.Model.LatLngBounds.LatLngBoundsBuilder class" Url="html/09d8df76-f793-cc98-7a59-303c82df005e.htm" />
+  <HelpKINode Title="AntaresMaps.Model.Marker class" Url="html/2f37f726-64f0-a6cb-42da-f2dcad750561.htm" />
+  <HelpKINode Title="AntaresMaps.Model.MarkerOptions class" Url="html/bec604c4-1203-f381-17f3-3819e9e67519.htm" />
+  <HelpKINode Title="AntaresMaps.Model.Polyline class" Url="html/f0a10308-e261-693e-50ad-fba634f2fa58.htm" />
+  <HelpKINode Title="AntaresMaps.Model.PolylineOptions class" Url="html/9590a516-75a3-e005-bd4a-0b3b05a57915.htm" />
+  <HelpKINode Title="AntaresMaps.Model.VisibleRegion class" Url="html/57911d22-ed8a-aa65-d123-e758d3aaa404.htm" />
+  <HelpKINode Title="Bearing method" Url="html/e2a14b46-139f-5b9e-7981-a4f806b0928d.htm" />
+  <HelpKINode Title="Bearing property" Url="html/1527f3db-123e-d35c-2c2b-775f96684f6b.htm" />
+  <HelpKINode Title="BearingTo method" Url="html/5bc47541-69eb-3db1-6e90-346b2c1ac3f3.htm" />
+  <HelpKINode Title="Bitmap property" Url="html/0d27eaf1-7954-cad7-d72c-f0714135b7fb.htm" />
+  <HelpKINode Title="BitmapDescriptor class">
+    <HelpKINode Title="BitmapDescriptor Class" Url="html/8ca76c1a-c4bc-585a-ae1a-b71e2095dc92.htm" />
+    <HelpKINode Title="about BitmapDescriptor class" Url="html/8ca76c1a-c4bc-585a-ae1a-b71e2095dc92.htm" />
+    <HelpKINode Title="methods" Url="html/914b0e65-7801-1374-d653-e8a0a8f87400.htm" />
+    <HelpKINode Title="properties" Url="html/cadaf45b-b780-56c2-1291-abb7b901e2fa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BitmapDescriptor.Bitmap property" Url="html/0d27eaf1-7954-cad7-d72c-f0714135b7fb.htm" />
+  <HelpKINode Title="BitmapDescriptor.Equals method" Url="html/f98bd7a5-a346-e78a-b3cf-d270b40a65dc.htm" />
+  <HelpKINode Title="BitmapDescriptor.GetHashCode method" Url="html/88ce5734-29fd-f291-ed79-972c182b12f1.htm" />
+  <HelpKINode Title="BitmapDescriptor.ToString method" Url="html/504213fd-441b-507b-f8f7-bd15a14798dd.htm" />
+  <HelpKINode Title="BitmapDescriptorFactory class">
+    <HelpKINode Title="BitmapDescriptorFactory Class" Url="html/8257a820-743f-7be9-9dd6-ca883d1348cd.htm" />
+    <HelpKINode Title="about BitmapDescriptorFactory class" Url="html/8257a820-743f-7be9-9dd6-ca883d1348cd.htm" />
+    <HelpKINode Title="constructor" Url="html/1044d77a-fc5f-38c0-d34e-b7a1a40bb0a1.htm" />
+    <HelpKINode Title="methods" Url="html/0c4a75ed-20ee-03b7-601d-90c263f57a15.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BitmapDescriptorFactory.BitmapDescriptorFactory constructor" Url="html/1044d77a-fc5f-38c0-d34e-b7a1a40bb0a1.htm" />
+  <HelpKINode Title="BitmapDescriptorFactory.DefaultMarker method" Url="html/00397b81-c7b2-851b-f4bb-eea862d63bd6.htm" />
+  <HelpKINode Title="BitmapDescriptorFactory.FromAssetAsync method" Url="html/6ee59b29-96c8-48b5-fa91-75c1682dae99.htm" />
+  <HelpKINode Title="BitmapDescriptorFactory.FromResource method" Url="html/2688bf23-7a58-19b5-29f5-8ca250bfb21e.htm" />
+  <HelpKINode Title="Build method">
+    <HelpKINode Title="CameraPosition.CameraPositionBuilder.Build Method " Url="html/4be67fe0-f80e-83a4-7278-f85a4c91c2d5.htm" />
+    <HelpKINode Title="LatLngBounds.LatLngBoundsBuilder.Build Method " Url="html/24e78a91-c638-a3bf-ed88-0fd81bac94f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Builder method">
+    <HelpKINode Title="CameraPosition.Builder Method " Url="html/86230382-82d9-b69c-d40d-f605d371e1f3.htm" />
+    <HelpKINode Title="LatLngBounds.Builder Method " Url="html/303fb027-4391-fd29-176b-289fd36b5b7b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Camera method" Url="html/a6d0ebcd-a27d-cab4-aacf-82e562564a47.htm" />
+  <HelpKINode Title="CameraIdle event" Url="html/1c9214d1-beae-dff1-501e-6108d6008f63.htm" />
+  <HelpKINode Title="CameraMove event" Url="html/60013a34-ee16-fd8c-14c0-84e3d3428e2e.htm" />
+  <HelpKINode Title="CameraMoveCanceled event" Url="html/6a8d892c-014b-0051-f6ab-ea7fa1b67e56.htm" />
+  <HelpKINode Title="CameraMoveStarted event" Url="html/4e1b576f-ec73-ba68-1eb6-8b278f9a889b.htm" />
+  <HelpKINode Title="CameraMoveStartedEventArgs class">
+    <HelpKINode Title="CameraMoveStartedEventArgs Class" Url="html/c3a3a514-f319-00d6-5532-f01e92bbbedf.htm" />
+    <HelpKINode Title="about CameraMoveStartedEventArgs class" Url="html/c3a3a514-f319-00d6-5532-f01e92bbbedf.htm" />
+    <HelpKINode Title="fields" Url="html/303e3cf3-fd6b-ee66-bbbf-af1323a51e67.htm" />
+    <HelpKINode Title="methods" Url="html/fc20f04b-cf5b-cde7-5f07-5882acec74bd.htm" />
+    <HelpKINode Title="properties" Url="html/5da14681-6706-ec34-229f-6e895a3c3721.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraMoveStartedEventArgs.Reason property" Url="html/79bc991a-0ba0-03dd-00d6-e2c18df0b45c.htm" />
+  <HelpKINode Title="CameraMoveStartedEventArgs.ReasonApiAnimation field" Url="html/0e46d2ae-6351-319b-f674-97462501714e.htm" />
+  <HelpKINode Title="CameraMoveStartedEventArgs.ReasonDeveloperAnimation field" Url="html/ea2ab054-2e31-f3de-289b-42ab5f037b8c.htm" />
+  <HelpKINode Title="CameraMoveStartedEventArgs.ReasonGesture field" Url="html/29a5cbfa-5363-5941-c29b-2fa080e12725.htm" />
+  <HelpKINode Title="CameraPosition class">
+    <HelpKINode Title="CameraPosition Class" Url="html/fe7ea32d-c951-b6d1-586a-c45d201cdba1.htm" />
+    <HelpKINode Title="about CameraPosition class" Url="html/fe7ea32d-c951-b6d1-586a-c45d201cdba1.htm" />
+    <HelpKINode Title="constructor" Url="html/656fb439-c141-18bc-2591-4774be569baa.htm" />
+    <HelpKINode Title="methods" Url="html/79696c51-b954-d163-aac7-fa5eaba57907.htm" />
+    <HelpKINode Title="properties" Url="html/1e288158-abe5-9696-136b-4cdfd24263aa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraPosition property">
+    <HelpKINode Title="IMapView.CameraPosition Property " Url="html/3ccebcbc-2a1a-28c4-a67c-20c6313a105a.htm" />
+    <HelpKINode Title="MapView.CameraPosition Property " Url="html/77a72ae7-11e9-e1fb-4454-f21f353b1ebf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraPosition.Bearing property" Url="html/1527f3db-123e-d35c-2c2b-775f96684f6b.htm" />
+  <HelpKINode Title="CameraPosition.Builder method" Url="html/86230382-82d9-b69c-d40d-f605d371e1f3.htm" />
+  <HelpKINode Title="CameraPosition.CameraPosition constructor" Url="html/656fb439-c141-18bc-2591-4774be569baa.htm" />
+  <HelpKINode Title="CameraPosition.CameraPositionBuilder class">
+    <HelpKINode Title="CameraPosition.CameraPositionBuilder Class" Url="html/53a69bd1-bcd2-978a-347e-818a733cd5a6.htm" />
+    <HelpKINode Title="about CameraPosition.CameraPositionBuilder class" Url="html/53a69bd1-bcd2-978a-347e-818a733cd5a6.htm" />
+    <HelpKINode Title="constructor" Url="html/31827208-1aa4-411e-65f8-eeff2d543a24.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraPosition.CameraPositionBuilder.Bearing method" Url="html/e2a14b46-139f-5b9e-7981-a4f806b0928d.htm" />
+  <HelpKINode Title="CameraPosition.CameraPositionBuilder.Build method" Url="html/4be67fe0-f80e-83a4-7278-f85a4c91c2d5.htm" />
+  <HelpKINode Title="CameraPosition.CameraPositionBuilder.CameraPositionBuilder constructor" Url="html/31827208-1aa4-411e-65f8-eeff2d543a24.htm" />
+  <HelpKINode Title="CameraPosition.CameraPositionBuilder.Target method" Url="html/b3231e57-683e-4f6b-d249-f722670f9c2d.htm" />
+  <HelpKINode Title="CameraPosition.CameraPositionBuilder.Zoom method" Url="html/dcb9694d-ca44-90c5-2816-09168219658d.htm" />
+  <HelpKINode Title="CameraPosition.Equals method" Url="html/6a1dc974-9c51-1bde-1aef-21e02d5f3511.htm" />
+  <HelpKINode Title="CameraPosition.FromLatLngZoom method" Url="html/cd0f5fce-e738-6aa1-3f2f-aa0a2a5090f8.htm" />
+  <HelpKINode Title="CameraPosition.GetHashCode method" Url="html/bd5eecaa-5e66-dd93-fdb3-1af867c26e25.htm" />
+  <HelpKINode Title="CameraPosition.Target property" Url="html/a4e85075-c8e2-9664-7a51-3986d0c7cd6c.htm" />
+  <HelpKINode Title="CameraPosition.ToString method" Url="html/1902f43f-755f-f12a-cb8d-d4aa96a290b7.htm" />
+  <HelpKINode Title="CameraPosition.Zoom property" Url="html/c2a2744b-9519-979e-8903-ffdbc31d1bb5.htm" />
+  <HelpKINode Title="CameraPositionBuilder class">
+    <HelpKINode Title="methods" Url="html/159e11f9-86d7-ee8e-08b9-80e5d73c296e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraUpdateFactory class">
+    <HelpKINode Title="CameraUpdateFactory Class" Url="html/7fa0546d-531b-f631-c3a6-c10fb976696f.htm" />
+    <HelpKINode Title="about CameraUpdateFactory class" Url="html/7fa0546d-531b-f631-c3a6-c10fb976696f.htm" />
+    <HelpKINode Title="constructor" Url="html/99467222-9a85-95a0-c49b-752fe985a4a2.htm" />
+    <HelpKINode Title="methods" Url="html/25843834-d49a-e0ef-55af-462a6ad7ee67.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CameraUpdateFactory.CameraUpdateFactory constructor" Url="html/99467222-9a85-95a0-c49b-752fe985a4a2.htm" />
+  <HelpKINode Title="CameraUpdateFactory.NewCameraPosition method" Url="html/00bd59a4-6b09-0763-a2e8-5c2e25dca540.htm" />
+  <HelpKINode Title="CameraUpdateFactory.NewLatLng method" Url="html/fe610d49-a7a9-013c-5c18-bac20725ba46.htm" />
+  <HelpKINode Title="CameraUpdateFactory.NewLatLngZoom method" Url="html/8b2a94ef-1b2c-dd01-508d-87855580d746.htm" />
+  <HelpKINode Title="CameraUpdateFactory.ScrollBy method" Url="html/66af5c6c-a9db-824a-455e-c566f4d780bd.htm" />
+  <HelpKINode Title="CameraUpdateFactory.ZoomBy method" Url="html/5c4d5e9c-1c70-a9ea-2e9f-4dfde79992a1.htm" />
+  <HelpKINode Title="CameraUpdateFactory.ZoomIn method" Url="html/450449e9-5878-1c86-9560-3f95a1a6b26b.htm" />
+  <HelpKINode Title="CameraUpdateFactory.ZoomOut method" Url="html/04094214-0f3c-c665-c900-cdfad3a5f32c.htm" />
+  <HelpKINode Title="CameraUpdateFactory.ZoomTo method" Url="html/cd10de27-e9ee-1fc7-6e3f-e9ad6f2c43b2.htm" />
+  <HelpKINode Title="Center property" Url="html/73e88cdf-4eb0-c8e2-32f3-b7c4ea3426ac.htm" />
+  <HelpKINode Title="Clear method" Url="html/2e1f8bc3-1e86-cf29-1907-b037585789ae.htm" />
+  <HelpKINode Title="Color property">
+    <HelpKINode Title="Polyline.Color Property " Url="html/49b60489-dc00-7612-824a-3c89f7b1af6a.htm" />
+    <HelpKINode Title="PolylineOptions.Color Property " Url="html/046c2cef-c091-a84b-9ead-f7e4260c5336.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Connect method" Url="html/5b316ee1-5115-e1e3-4de9-9f61bb4e945e.htm" />
+  <HelpKINode Title="Contains method" Url="html/0d5eb668-ac43-4288-228e-a13626776712.htm" />
+  <HelpKINode Title="DefaultMarker method" Url="html/00397b81-c7b2-851b-f4bb-eea862d63bd6.htm" />
+  <HelpKINode Title="DeselectMarkersOnTap property" Url="html/87f7db16-4ed0-99d1-62f8-71a5dda59284.htm" />
+  <HelpKINode Title="DistanceTo method" Url="html/89c2836b-0e84-24c4-15f4-004c5522909a.htm" />
+  <HelpKINode Title="DoubleTapGesturesEnabled method" Url="html/25ba33b1-353f-7718-65ff-f22081d29249.htm" />
+  <HelpKINode Title="DoubleTapGesturesEnabled property" Url="html/7a381fb9-9aae-0e5b-6263-66801eb63c12.htm" />
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="AntaresMapOptions.Equals Method " Url="html/ca717e21-6af0-b2ea-6d91-56aa49be0a83.htm" />
+    <HelpKINode Title="BitmapDescriptor.Equals Method " Url="html/f98bd7a5-a346-e78a-b3cf-d270b40a65dc.htm" />
+    <HelpKINode Title="CameraPosition.Equals Method " Url="html/6a1dc974-9c51-1bde-1aef-21e02d5f3511.htm" />
+    <HelpKINode Title="LatLng.Equals Method " Url="html/db06e7d4-a39e-50eb-4f4d-32a7b7d36bc7.htm" />
+    <HelpKINode Title="LatLngBounds.Equals Method " Url="html/3b9b0ff9-dbee-d8c8-2290-012248c3a6f8.htm" />
+    <HelpKINode Title="Marker.Equals Method " Url="html/3c48e4f3-078d-7589-1824-8428635b1ffd.htm" />
+    <HelpKINode Title="Polyline.Equals Method " Url="html/2fe1c0b7-ad88-0b2b-bae2-c463136cf361.htm" />
+    <HelpKINode Title="PolylineOptions.Equals Method " Url="html/6420f568-d48d-d852-1ccd-00695686973d.htm" />
+    <HelpKINode Title="VisibleRegion.Equals Method " Url="html/c181f75d-3c2f-fff5-2b9b-738b1220c7ae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FarLeft property" Url="html/4444cd6e-470d-8e38-8242-d5eed54914a8.htm" />
+  <HelpKINode Title="FarRight property" Url="html/6d39ee68-0f40-108c-3384-955f961d027f.htm" />
+  <HelpKINode Title="FromAssetAsync method" Url="html/6ee59b29-96c8-48b5-fa91-75c1682dae99.htm" />
+  <HelpKINode Title="FromLatLngZoom method" Url="html/cd0f5fce-e738-6aa1-3f2f-aa0a2a5090f8.htm" />
+  <HelpKINode Title="FromResource method" Url="html/2688bf23-7a58-19b5-29f5-8ca250bfb21e.htm" />
+  <HelpKINode Title="FromScreenLocation method" Url="html/5e5a16af-bca9-ca4c-b27e-6cce5bb09686.htm" />
+  <HelpKINode Title="GetBindingConnector method" Url="html/b883922c-d95c-040f-538d-a324efa6ec49.htm" />
+  <HelpKINode Title="GetCamera method" Url="html/4e615a31-ef92-4ca1-c4ff-6c5a42f82d95.htm" />
+  <HelpKINode Title="GetCameraOrDefault method" Url="html/97559681-c8af-4106-ad14-a023fa737c2e.htm" />
+  <HelpKINode Title="GetCameraPosition method" Url="html/988207f3-0f0d-117d-da8d-c94628228a71.htm" />
+  <HelpKINode Title="GetDensity method" Url="html/0841c0b3-6f9a-fbe3-9c01-95a03e5666e3.htm" />
+  <HelpKINode Title="GetDoubleTapGesturesEnabled method" Url="html/83288a13-7a47-04c5-188b-d3cd115f780c.htm" />
+  <HelpKINode Title="GetDoubleTapGesturesEnabledOrDefault method" Url="html/f63a3777-3d5a-e4b6-cf91-59a8843c263d.htm" />
+  <HelpKINode Title="GetFocalPoint method" Url="html/354e7956-5bb6-39e5-50ec-a588377585dd.htm" />
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="AntaresMapOptions.GetHashCode Method " Url="html/cf200b5f-804f-2a56-6e74-58224d5cc80a.htm" />
+    <HelpKINode Title="BitmapDescriptor.GetHashCode Method " Url="html/88ce5734-29fd-f291-ed79-972c182b12f1.htm" />
+    <HelpKINode Title="CameraPosition.GetHashCode Method " Url="html/bd5eecaa-5e66-dd93-fdb3-1af867c26e25.htm" />
+    <HelpKINode Title="LatLng.GetHashCode Method " Url="html/aa6a7797-dbc8-db5f-26ef-afd0d0d4d68b.htm" />
+    <HelpKINode Title="LatLngBounds.GetHashCode Method " Url="html/f1b89d18-acea-5ac2-3851-1507be219078.htm" />
+    <HelpKINode Title="Marker.GetHashCode Method " Url="html/60fa8890-c27f-7a6c-a2e9-009ae5c899b5.htm" />
+    <HelpKINode Title="Polyline.GetHashCode Method " Url="html/c09ebc86-f87c-8e99-ba0c-caaaa33679a5.htm" />
+    <HelpKINode Title="PolylineOptions.GetHashCode Method " Url="html/d52ca8c9-59da-4523-69b5-16d4b6e8c64a.htm" />
+    <HelpKINode Title="VisibleRegion.GetHashCode Method " Url="html/084b0a2f-4b67-c968-fdc6-a7106f0fa860.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetMaxZoomPreference method" Url="html/f417557e-8f05-8017-833d-f5662dca7641.htm" />
+  <HelpKINode Title="GetMaxZoomPreferenceOrDefault method" Url="html/f8f54348-3916-580b-4fa3-8e964b71e326.htm" />
+  <HelpKINode Title="GetMinZoomPreference method" Url="html/4036b5f3-f3eb-aad6-b75f-22af11268bc3.htm" />
+  <HelpKINode Title="GetMinZoomPreferenceOrDefault method" Url="html/63af4b8a-245d-ec16-270c-6263c1056629.htm" />
+  <HelpKINode Title="GetRotateGesturesEnabled method" Url="html/b264e170-9824-b00b-9f62-5f7d6d8a67d2.htm" />
+  <HelpKINode Title="GetRotateGesturesEnabledOrDefault method" Url="html/88499900-37bb-98ae-09df-35feab825c42.htm" />
+  <HelpKINode Title="GetScrollGesturesEnabled method" Url="html/88cb52dd-670b-951c-e412-48de50c18475.htm" />
+  <HelpKINode Title="GetScrollGesturesEnabledOrDefault method" Url="html/c3091e23-eb21-daea-6849-75abfcff3ebb.htm" />
+  <HelpKINode Title="GetStyleUrl method" Url="html/29c39505-c43d-cf3b-b9ec-acf3c0e1012a.htm" />
+  <HelpKINode Title="GetStyleUrlOrDefault method" Url="html/7fff7747-d099-2025-c0ed-5d86f8eae512.htm" />
+  <HelpKINode Title="GetVisibleRegion method" Url="html/62ba2b9c-45b4-7700-184d-415a959aa4c4.htm" />
+  <HelpKINode Title="GetZoomGesturesEnabled method" Url="html/1bcf45b7-6cb1-8a97-f471-84339ceb9fa2.htm" />
+  <HelpKINode Title="GetZoomGesturesEnabledOrDefault method" Url="html/4b9a7a01-ed30-fe5c-5e6e-5dc6e93a397c.htm" />
+  <HelpKINode Title="ICameraUpdate interface">
+    <HelpKINode Title="ICameraUpdate Interface" Url="html/06f93812-996f-4642-a506-11d83df9b8bf.htm" />
+    <HelpKINode Title="about ICameraUpdate interface" Url="html/06f93812-996f-4642-a506-11d83df9b8bf.htm" />
+    <HelpKINode Title="methods" Url="html/e5d4e261-6539-731a-ee18-0c7cf53634ce.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICameraUpdate.GetCameraPosition method" Url="html/988207f3-0f0d-117d-da8d-c94628228a71.htm" />
+  <HelpKINode Title="Icon property">
+    <HelpKINode Title="Marker.Icon Property " Url="html/7394d8a9-691f-0c98-d24a-fa71be808f91.htm" />
+    <HelpKINode Title="MarkerOptions.Icon Property " Url="html/49d92c23-b604-d046-7fb9-1e310e3a82ae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="Marker.Id Property " Url="html/e80f5cde-1b78-895b-2c2b-35b0f04256ed.htm" />
+    <HelpKINode Title="Polyline.Id Property " Url="html/51b5e77e-c87f-2513-35fa-c3aa3fd0ce46.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMapView interface">
+    <HelpKINode Title="IMapView Interface" Url="html/9fb4afce-0ca3-1493-bc1a-335ce55407c5.htm" />
+    <HelpKINode Title="about IMapView interface" Url="html/9fb4afce-0ca3-1493-bc1a-335ce55407c5.htm" />
+    <HelpKINode Title="methods" Url="html/b69d14b0-c25f-9ec0-4b06-607de29a5a54.htm" />
+    <HelpKINode Title="properties" Url="html/6459d678-5ed3-06ae-210d-ee2208754250.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMapView.CameraPosition property" Url="html/3ccebcbc-2a1a-28c4-a67c-20c6313a105a.htm" />
+  <HelpKINode Title="IMapView.MapProjection property" Url="html/5345a76a-7ca5-ea02-a2a5-77edbe7264c0.htm" />
+  <HelpKINode Title="IMapView.RefreshStyle method" Url="html/5703a57b-a749-d2f0-dc72-8e4854e9d85e.htm" />
+  <HelpKINode Title="IMapView.SetStyleJson method" Url="html/5f36b87b-b4f9-9fbd-6f69-2e3a9dff6056.htm" />
+  <HelpKINode Title="IMapView.SetStyleUrl method" Url="html/47212b08-6f3b-4d2e-dfc8-27d8aae81d2d.htm" />
+  <HelpKINode Title="IMapView.StyleUrl property" Url="html/f3103e49-6bc4-171c-d648-58738056b324.htm" />
+  <HelpKINode Title="IMapView.UiSettings property" Url="html/449a0fef-78f3-138d-50e0-5b5cf7409332.htm" />
+  <HelpKINode Title="Include method" Url="html/26618e88-0305-787c-9b4c-ea5d5e9be5c3.htm" />
+  <HelpKINode Title="Includes method" Url="html/7b2b901e-a9ad-87ae-5ac2-a94b8d62fac3.htm" />
+  <HelpKINode Title="Including method" Url="html/5001ad26-47d9-6fdb-f1a6-7463f1a0fd0d.htm" />
+  <HelpKINode Title="InitializeComponent method" Url="html/d010d59d-ac81-1a7e-3099-2292f323be8d.htm" />
+  <HelpKINode Title="Invalidate method" Url="html/85641919-c6bc-63c0-5f9c-816dbef678d8.htm" />
+  <HelpKINode Title="Latitude property" Url="html/18c4ed03-8729-c47a-7e7b-2dcec4a1c309.htm" />
+  <HelpKINode Title="LatitudeSpan property" Url="html/6b4f6123-577a-ea32-9a2b-b6e9d53ef2e5.htm" />
+  <HelpKINode Title="LatLng class">
+    <HelpKINode Title="LatLng Class" Url="html/aa7b97b8-70e9-951b-19db-fb071b5e4af9.htm" />
+    <HelpKINode Title="about LatLng class" Url="html/aa7b97b8-70e9-951b-19db-fb071b5e4af9.htm" />
+    <HelpKINode Title="constructor" Url="html/dab056a1-6b60-c35b-049d-75eff115ef87.htm" />
+    <HelpKINode Title="methods" Url="html/b2a1d326-b943-c83d-9c0a-f4641c27b1f9.htm" />
+    <HelpKINode Title="properties" Url="html/d40af45d-846e-a3ff-2461-74afd16213c1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LatLng.BearingTo method" Url="html/5bc47541-69eb-3db1-6e90-346b2c1ac3f3.htm" />
+  <HelpKINode Title="LatLng.DistanceTo method" Url="html/89c2836b-0e84-24c4-15f4-004c5522909a.htm" />
+  <HelpKINode Title="LatLng.Equals method" Url="html/db06e7d4-a39e-50eb-4f4d-32a7b7d36bc7.htm" />
+  <HelpKINode Title="LatLng.GetHashCode method" Url="html/aa6a7797-dbc8-db5f-26ef-afd0d0d4d68b.htm" />
+  <HelpKINode Title="LatLng.Latitude property" Url="html/18c4ed03-8729-c47a-7e7b-2dcec4a1c309.htm" />
+  <HelpKINode Title="LatLng.LatLng constructor" Url="html/dab056a1-6b60-c35b-049d-75eff115ef87.htm" />
+  <HelpKINode Title="LatLng.Longitude property" Url="html/93c57695-6cff-b6bf-bade-68e8f62f2614.htm" />
+  <HelpKINode Title="LatLng.ToFormattedString method" Url="html/53c6df65-1a7f-812b-a14e-78329afed58d.htm" />
+  <HelpKINode Title="LatLng.ToString method" Url="html/e36d4aaa-174e-c775-fdf1-c00855f8cf2c.htm" />
+  <HelpKINode Title="LatLngBounds class">
+    <HelpKINode Title="LatLngBounds Class" Url="html/8f9fb4b8-0755-27e8-a46e-3f4ea6e068e1.htm" />
+    <HelpKINode Title="about LatLngBounds class" Url="html/8f9fb4b8-0755-27e8-a46e-3f4ea6e068e1.htm" />
+    <HelpKINode Title="constructor" Url="html/ddd67a33-c487-a973-d384-f3758e28aea7.htm" />
+    <HelpKINode Title="methods" Url="html/4c7e3874-becb-ef00-3158-2c244978aea7.htm" />
+    <HelpKINode Title="properties" Url="html/60dc4a7a-aef4-25b4-dc3a-3f58c46d2731.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LatLngbounds property" Url="html/82ea8865-0a85-6478-5704-ad2b1a8392b5.htm" />
+  <HelpKINode Title="LatLngBounds.Builder method" Url="html/303fb027-4391-fd29-176b-289fd36b5b7b.htm" />
+  <HelpKINode Title="LatLngBounds.Center property" Url="html/73e88cdf-4eb0-c8e2-32f3-b7c4ea3426ac.htm" />
+  <HelpKINode Title="LatLngBounds.Contains method" Url="html/0d5eb668-ac43-4288-228e-a13626776712.htm" />
+  <HelpKINode Title="LatLngBounds.Equals method" Url="html/3b9b0ff9-dbee-d8c8-2290-012248c3a6f8.htm" />
+  <HelpKINode Title="LatLngBounds.GetHashCode method" Url="html/f1b89d18-acea-5ac2-3851-1507be219078.htm" />
+  <HelpKINode Title="LatLngBounds.Including method" Url="html/5001ad26-47d9-6fdb-f1a6-7463f1a0fd0d.htm" />
+  <HelpKINode Title="LatLngBounds.LatitudeSpan property" Url="html/6b4f6123-577a-ea32-9a2b-b6e9d53ef2e5.htm" />
+  <HelpKINode Title="LatLngBounds.LatLngBounds constructor" Url="html/ddd67a33-c487-a973-d384-f3758e28aea7.htm" />
+  <HelpKINode Title="LatLngBounds.LatLngBoundsBuilder class">
+    <HelpKINode Title="LatLngBounds.LatLngBoundsBuilder Class" Url="html/09d8df76-f793-cc98-7a59-303c82df005e.htm" />
+    <HelpKINode Title="about LatLngBounds.LatLngBoundsBuilder class" Url="html/09d8df76-f793-cc98-7a59-303c82df005e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LatLngBounds.LatLngBoundsBuilder.Build method" Url="html/24e78a91-c638-a3bf-ed88-0fd81bac94f9.htm" />
+  <HelpKINode Title="LatLngBounds.LatLngBoundsBuilder.Include method" Url="html/26618e88-0305-787c-9b4c-ea5d5e9be5c3.htm" />
+  <HelpKINode Title="LatLngBounds.LatLngBoundsBuilder.Includes method" Url="html/7b2b901e-a9ad-87ae-5ac2-a94b8d62fac3.htm" />
+  <HelpKINode Title="LatLngBounds.LatNorth property" Url="html/db0471c5-13aa-ec41-b0aa-44c1f403b8a5.htm" />
+  <HelpKINode Title="LatLngBounds.LatSouth property" Url="html/7d7c3f91-fb46-bef9-cb57-82f85ba4d6a9.htm" />
+  <HelpKINode Title="LatLngBounds.LonEast property" Url="html/6854f23c-45d9-f2e2-2a34-d7d2c21ffa4b.htm" />
+  <HelpKINode Title="LatLngBounds.LongitudeSpan property" Url="html/cd8043d6-bd0d-5d64-26b7-7fbdad643b4c.htm" />
+  <HelpKINode Title="LatLngBounds.LonWest property" Url="html/78c2d780-82a8-7e0d-1f7d-5423281bd3ec.htm" />
+  <HelpKINode Title="LatLngBounds.NorthEast property" Url="html/5016bbfd-1eff-8b19-99ba-ebb702610c76.htm" />
+  <HelpKINode Title="LatLngBounds.SouthWest property" Url="html/6b445f2d-10ba-fee1-ffe0-b1e374d69059.htm" />
+  <HelpKINode Title="LatLngBounds.ToString method" Url="html/9202cb62-3005-4e7c-9115-2fd4ebc8d8f6.htm" />
+  <HelpKINode Title="LatLngBoundsBuilder class">
+    <HelpKINode Title="methods" Url="html/06b12c2a-ed65-c8ff-75a8-67ddaf5184e1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LatNorth property" Url="html/db0471c5-13aa-ec41-b0aa-44c1f403b8a5.htm" />
+  <HelpKINode Title="LatSouth property" Url="html/7d7c3f91-fb46-bef9-cb57-82f85ba4d6a9.htm" />
+  <HelpKINode Title="LonEast property" Url="html/6854f23c-45d9-f2e2-2a34-d7d2c21ffa4b.htm" />
+  <HelpKINode Title="Longitude property" Url="html/93c57695-6cff-b6bf-bade-68e8f62f2614.htm" />
+  <HelpKINode Title="LongitudeSpan property" Url="html/cd8043d6-bd0d-5d64-26b7-7fbdad643b4c.htm" />
+  <HelpKINode Title="LonWest property" Url="html/78c2d780-82a8-7e0d-1f7d-5423281bd3ec.htm" />
+  <HelpKINode Title="MapClick event" Url="html/1cb5c3cb-0587-c6df-8b63-bb7c09594384.htm" />
+  <HelpKINode Title="MapClickEventArgs class">
+    <HelpKINode Title="methods" Url="html/a8d3311c-c7c9-4175-f297-4ccff469aa6a.htm" />
+    <HelpKINode Title="properties" Url="html/f3c3e88b-d93a-8afa-7ebd-a43a2cae6df0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MapLongClick event" Url="html/26f838e6-2ecb-fe8f-cc6c-e3f5da62fb89.htm" />
+  <HelpKINode Title="MapProjection property">
+    <HelpKINode Title="IMapView.MapProjection Property " Url="html/5345a76a-7ca5-ea02-a2a5-77edbe7264c0.htm" />
+    <HelpKINode Title="MapView.MapProjection Property " Url="html/8dd7d930-c86d-f2af-6b3a-2e51fda82c3a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MapView class">
+    <HelpKINode Title="MapView Class" Url="html/a502964e-618e-8b76-f65a-977bb372605e.htm" />
+    <HelpKINode Title="about MapView class" Url="html/a502964e-618e-8b76-f65a-977bb372605e.htm" />
+    <HelpKINode Title="constructor" Url="html/df68bdb9-c704-464d-ee06-87ff822eb6a7.htm" />
+    <HelpKINode Title="events" Url="html/ab3372c6-5455-52f9-14c3-1627fd222049.htm" />
+    <HelpKINode Title="methods" Url="html/e6614e60-69da-921f-33a2-7eea3869e148.htm" />
+    <HelpKINode Title="properties" Url="html/b226cf4b-9bac-f2ee-bae8-03536a1207db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MapView.AddMarker method" Url="html/f74e4dd3-0532-1171-22ce-6fee44512fbb.htm" />
+  <HelpKINode Title="MapView.AddPolyline method" Url="html/9f7ed098-8787-5ff4-fce5-826b207a7ef7.htm" />
+  <HelpKINode Title="MapView.AnimateCamera method" Url="html/490421c0-21bf-7289-e0e7-36d004f36618.htm" />
+  <HelpKINode Title="MapView.CameraIdle event" Url="html/1c9214d1-beae-dff1-501e-6108d6008f63.htm" />
+  <HelpKINode Title="MapView.CameraMove event" Url="html/60013a34-ee16-fd8c-14c0-84e3d3428e2e.htm" />
+  <HelpKINode Title="MapView.CameraMoveCanceled event" Url="html/6a8d892c-014b-0051-f6ab-ea7fa1b67e56.htm" />
+  <HelpKINode Title="MapView.CameraMoveStarted event" Url="html/4e1b576f-ec73-ba68-1eb6-8b278f9a889b.htm" />
+  <HelpKINode Title="MapView.CameraPosition property" Url="html/77a72ae7-11e9-e1fb-4454-f21f353b1ebf.htm" />
+  <HelpKINode Title="MapView.Clear method" Url="html/2e1f8bc3-1e86-cf29-1907-b037585789ae.htm" />
+  <HelpKINode Title="MapView.Connect method" Url="html/5b316ee1-5115-e1e3-4de9-9f61bb4e945e.htm" />
+  <HelpKINode Title="MapView.GetBindingConnector method" Url="html/b883922c-d95c-040f-538d-a324efa6ec49.htm" />
+  <HelpKINode Title="MapView.InitializeComponent method" Url="html/d010d59d-ac81-1a7e-3099-2292f323be8d.htm" />
+  <HelpKINode Title="MapView.Invalidate method" Url="html/85641919-c6bc-63c0-5f9c-816dbef678d8.htm" />
+  <HelpKINode Title="MapView.MapClick event" Url="html/1cb5c3cb-0587-c6df-8b63-bb7c09594384.htm" />
+  <HelpKINode Title="MapView.MapClickEventArgs class">
+    <HelpKINode Title="MapView.MapClickEventArgs Class" Url="html/60f66ca9-9d90-4481-886f-39217e402f52.htm" />
+    <HelpKINode Title="about MapView.MapClickEventArgs class" Url="html/60f66ca9-9d90-4481-886f-39217e402f52.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MapView.MapClickEventArgs.Point property" Url="html/f458fc62-dfed-b914-f922-7d179df75bb7.htm" />
+  <HelpKINode Title="MapView.MapLongClick event" Url="html/26f838e6-2ecb-fe8f-cc6c-e3f5da62fb89.htm" />
+  <HelpKINode Title="MapView.MapProjection property" Url="html/8dd7d930-c86d-f2af-6b3a-2e51fda82c3a.htm" />
+  <HelpKINode Title="MapView.MapView constructor" Url="html/df68bdb9-c704-464d-ee06-87ff822eb6a7.htm" />
+  <HelpKINode Title="MapView.MaxZoomLevel property" Url="html/ee2a8a0b-6436-d073-956f-44c97bd1422f.htm" />
+  <HelpKINode Title="MapView.MinZoomLevel property" Url="html/a4e930d2-6c72-33f4-5fec-864da12f7f4f.htm" />
+  <HelpKINode Title="MapView.MoveCamera method" Url="html/3c0c85a0-9986-0bf6-bb70-97b83fc91fcb.htm" />
+  <HelpKINode Title="MapView.RefreshStyle method" Url="html/fcd44b03-a8c9-85f3-ebcc-060a9a630b0c.htm" />
+  <HelpKINode Title="MapView.SetStyleJson method" Url="html/3dff6e62-f6fb-3fb7-2a9d-510a2008fd6c.htm" />
+  <HelpKINode Title="MapView.SetStyleUrl method" Url="html/5a8fa852-5798-3844-b5db-8af37dbf1dd4.htm" />
+  <HelpKINode Title="MapView.StyleUrl property" Url="html/0a3c9181-fbcf-975e-fb30-5e6e493350cb.htm" />
+  <HelpKINode Title="MapView.UiSettings property" Url="html/1802dba7-1b94-66f4-abb8-b979073ec092.htm" />
+  <HelpKINode Title="Marker class">
+    <HelpKINode Title="Marker Class" Url="html/2f37f726-64f0-a6cb-42da-f2dcad750561.htm" />
+    <HelpKINode Title="about Marker class" Url="html/2f37f726-64f0-a6cb-42da-f2dcad750561.htm" />
+    <HelpKINode Title="methods" Url="html/97401719-2f40-65c5-540d-f3ad1acdc98d.htm" />
+    <HelpKINode Title="properties" Url="html/f8c8d694-826b-9491-be86-0eb51da0796d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Marker.Alpha property" Url="html/f5edb899-9b8c-9976-ff07-a7ceeb57ea40.htm" />
+  <HelpKINode Title="Marker.AnchorU property" Url="html/689a1f50-723c-bbaf-05da-22751b18bae7.htm" />
+  <HelpKINode Title="Marker.AnchorV property" Url="html/1deb8c1c-4fd9-4d6d-27ed-a5baffdafa66.htm" />
+  <HelpKINode Title="Marker.Equals method" Url="html/3c48e4f3-078d-7589-1824-8428635b1ffd.htm" />
+  <HelpKINode Title="Marker.GetHashCode method" Url="html/60fa8890-c27f-7a6c-a2e9-009ae5c899b5.htm" />
+  <HelpKINode Title="Marker.Icon property" Url="html/7394d8a9-691f-0c98-d24a-fa71be808f91.htm" />
+  <HelpKINode Title="Marker.Id property" Url="html/e80f5cde-1b78-895b-2c2b-35b0f04256ed.htm" />
+  <HelpKINode Title="Marker.Position property" Url="html/7ee9e3a3-bd49-c68f-b8cc-475a431e2d08.htm" />
+  <HelpKINode Title="Marker.Remove method" Url="html/bc58de7b-f635-0824-df95-230aecab0864.htm" />
+  <HelpKINode Title="Marker.Tag property" Url="html/3191a4c9-b758-df80-9f4b-c6b58c651a79.htm" />
+  <HelpKINode Title="Marker.ToString method" Url="html/2a3b915b-700a-4ce8-0364-2d692063f177.htm" />
+  <HelpKINode Title="Marker.Visible property" Url="html/eea51207-4179-5844-0bfb-1ad7260b0655.htm" />
+  <HelpKINode Title="MarkerOptions class">
+    <HelpKINode Title="MarkerOptions Class" Url="html/bec604c4-1203-f381-17f3-3819e9e67519.htm" />
+    <HelpKINode Title="about MarkerOptions class" Url="html/bec604c4-1203-f381-17f3-3819e9e67519.htm" />
+    <HelpKINode Title="constructor" Url="html/21e8a0c6-ab02-4b60-9fc8-f311a768c661.htm" />
+    <HelpKINode Title="methods" Url="html/41739e9d-30a1-029c-4320-40f0509087e6.htm" />
+    <HelpKINode Title="properties" Url="html/a0cc86da-18f1-4a7e-ee59-dab8d03b3c4e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MarkerOptions.Alpha property" Url="html/f0c23440-db35-caf7-be64-a1cbf7526147.htm" />
+  <HelpKINode Title="MarkerOptions.AnchorU property" Url="html/51e5e168-2c15-39e0-59e4-2e6a8cff5b6c.htm" />
+  <HelpKINode Title="MarkerOptions.AnchorV property" Url="html/7740dbc0-27c2-0298-02b3-1c910c21fa31.htm" />
+  <HelpKINode Title="MarkerOptions.Icon property" Url="html/49d92c23-b604-d046-7fb9-1e310e3a82ae.htm" />
+  <HelpKINode Title="MarkerOptions.MarkerOptions constructor" Url="html/21e8a0c6-ab02-4b60-9fc8-f311a768c661.htm" />
+  <HelpKINode Title="MarkerOptions.Position property" Url="html/ac431476-5fc3-6bc1-9833-d9c9aba64486.htm" />
+  <HelpKINode Title="MarkerOptions.Visible property" Url="html/a1c99824-4369-7450-0f9d-84de36706da7.htm" />
+  <HelpKINode Title="MaxZoomLevel property" Url="html/ee2a8a0b-6436-d073-956f-44c97bd1422f.htm" />
+  <HelpKINode Title="MaxZoomPreference method" Url="html/ae51d12b-cbe0-63b2-9e5e-60c2eb1df95f.htm" />
+  <HelpKINode Title="MinZoomLevel property" Url="html/a4e930d2-6c72-33f4-5fec-864da12f7f4f.htm" />
+  <HelpKINode Title="MinZoomPreference method" Url="html/2c81f3d1-32e7-7cb2-d077-9bfd54a0483c.htm" />
+  <HelpKINode Title="MoveCamera method" Url="html/3c0c85a0-9986-0bf6-bb70-97b83fc91fcb.htm" />
+  <HelpKINode Title="NearLeft property" Url="html/84ce80dd-9569-c159-7d7b-677499cfa2b9.htm" />
+  <HelpKINode Title="NearRight property" Url="html/74408e44-0a77-aa79-d668-9c5a5844fba4.htm" />
+  <HelpKINode Title="NewCameraPosition method" Url="html/00bd59a4-6b09-0763-a2e8-5c2e25dca540.htm" />
+  <HelpKINode Title="NewLatLng method" Url="html/fe610d49-a7a9-013c-5c18-bac20725ba46.htm" />
+  <HelpKINode Title="NewLatLngZoom method" Url="html/8b2a94ef-1b2c-dd01-508d-87855580d746.htm" />
+  <HelpKINode Title="NorthEast property" Url="html/5016bbfd-1eff-8b19-99ba-ebb702610c76.htm" />
+  <HelpKINode Title="Point property" Url="html/f458fc62-dfed-b914-f922-7d179df75bb7.htm" />
+  <HelpKINode Title="Points property">
+    <HelpKINode Title="Polyline.Points Property " Url="html/21a293e5-b39f-a385-0777-81e06a898e48.htm" />
+    <HelpKINode Title="PolylineOptions.Points Property " Url="html/cf5a1faf-49c0-d2ba-aa2c-c870633fb142.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Polyline class">
+    <HelpKINode Title="Polyline Class" Url="html/f0a10308-e261-693e-50ad-fba634f2fa58.htm" />
+    <HelpKINode Title="about Polyline class" Url="html/f0a10308-e261-693e-50ad-fba634f2fa58.htm" />
+    <HelpKINode Title="methods" Url="html/a914b15d-6ec6-580c-499e-28e8ea3c7f75.htm" />
+    <HelpKINode Title="properties" Url="html/36e40318-2062-edb0-8855-8f4f78362d28.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Polyline.Alpha property" Url="html/9cbf8bff-8451-68b1-8d8d-e34ecce446b5.htm" />
+  <HelpKINode Title="Polyline.Color property" Url="html/49b60489-dc00-7612-824a-3c89f7b1af6a.htm" />
+  <HelpKINode Title="Polyline.Equals method" Url="html/2fe1c0b7-ad88-0b2b-bae2-c463136cf361.htm" />
+  <HelpKINode Title="Polyline.GetHashCode method" Url="html/c09ebc86-f87c-8e99-ba0c-caaaa33679a5.htm" />
+  <HelpKINode Title="Polyline.Id property" Url="html/51b5e77e-c87f-2513-35fa-c3aa3fd0ce46.htm" />
+  <HelpKINode Title="Polyline.Points property" Url="html/21a293e5-b39f-a385-0777-81e06a898e48.htm" />
+  <HelpKINode Title="Polyline.Remove method" Url="html/62644baf-cb96-ea69-7e3f-08a7cc625344.htm" />
+  <HelpKINode Title="Polyline.SetAlpha method" Url="html/68a2c648-8f39-2fac-4813-bd3b0ec5241f.htm" />
+  <HelpKINode Title="Polyline.SetColor method" Url="html/33e9cde6-1d2f-5836-28c3-78748ea4ebce.htm" />
+  <HelpKINode Title="Polyline.SetPoints method" Url="html/cac0c7e4-6b87-363a-b0c8-459018c366e1.htm" />
+  <HelpKINode Title="Polyline.SetWidth method" Url="html/efb00139-46a0-d3fa-dd33-5b5018d94282.htm" />
+  <HelpKINode Title="Polyline.Tag property" Url="html/f0b86ada-d8c0-f588-2d38-aa9fafa5de70.htm" />
+  <HelpKINode Title="Polyline.ToString method" Url="html/3f2c8565-2053-5c48-dc81-024eeafe3881.htm" />
+  <HelpKINode Title="Polyline.Visible property" Url="html/8e8d0485-5f72-2639-18c1-ecc6ca517cd4.htm" />
+  <HelpKINode Title="Polyline.Width property" Url="html/c20ff069-5089-eb0b-ad48-e1f953287802.htm" />
+  <HelpKINode Title="PolylineOptions class">
+    <HelpKINode Title="PolylineOptions Class" Url="html/9590a516-75a3-e005-bd4a-0b3b05a57915.htm" />
+    <HelpKINode Title="about PolylineOptions class" Url="html/9590a516-75a3-e005-bd4a-0b3b05a57915.htm" />
+    <HelpKINode Title="constructor" Url="html/64e5a134-55e2-f73d-4878-d6ec7749e6ec.htm" />
+    <HelpKINode Title="methods" Url="html/87557c14-b7a9-0e94-6974-560ab5d065a2.htm" />
+    <HelpKINode Title="properties" Url="html/92d56c86-05a6-ab3a-eb55-b67bb198fc7a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PolylineOptions.Add method" Url="html/430183ea-3d92-b159-7502-d2b2e97aa6ac.htm" />
+  <HelpKINode Title="PolylineOptions.AddAll method" Url="html/dd43fc26-6ae1-1e3e-3a53-ae5007dcb849.htm" />
+  <HelpKINode Title="PolylineOptions.Alpha property" Url="html/c5ab62df-6766-582a-cc57-67f3bd6c11c8.htm" />
+  <HelpKINode Title="PolylineOptions.Color property" Url="html/046c2cef-c091-a84b-9ead-f7e4260c5336.htm" />
+  <HelpKINode Title="PolylineOptions.Equals method" Url="html/6420f568-d48d-d852-1ccd-00695686973d.htm" />
+  <HelpKINode Title="PolylineOptions.GetHashCode method" Url="html/d52ca8c9-59da-4523-69b5-16d4b6e8c64a.htm" />
+  <HelpKINode Title="PolylineOptions.Points property" Url="html/cf5a1faf-49c0-d2ba-aa2c-c870633fb142.htm" />
+  <HelpKINode Title="PolylineOptions.PolylineOptions constructor" Url="html/64e5a134-55e2-f73d-4878-d6ec7749e6ec.htm" />
+  <HelpKINode Title="PolylineOptions.ToString method" Url="html/d4991920-b2b4-59d7-6cfc-c85b620c7cae.htm" />
+  <HelpKINode Title="PolylineOptions.Visible property" Url="html/c540ec81-5d59-0184-6de8-2fb132531f6d.htm" />
+  <HelpKINode Title="PolylineOptions.Width property" Url="html/8f5487e1-94c1-7bcd-e5cf-590967c2dae7.htm" />
+  <HelpKINode Title="Position property">
+    <HelpKINode Title="Marker.Position Property " Url="html/7ee9e3a3-bd49-c68f-b8cc-475a431e2d08.htm" />
+    <HelpKINode Title="MarkerOptions.Position Property " Url="html/ac431476-5fc3-6bc1-9833-d9c9aba64486.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Projection class">
+    <HelpKINode Title="Projection Class" Url="html/f2bb8273-6731-d7de-46e4-873f69d5a224.htm" />
+    <HelpKINode Title="about Projection class" Url="html/f2bb8273-6731-d7de-46e4-873f69d5a224.htm" />
+    <HelpKINode Title="methods" Url="html/4b625d23-7c23-ad98-30e9-88c10750c7d8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Projection.FromScreenLocation method" Url="html/5e5a16af-bca9-ca4c-b27e-6cce5bb09686.htm" />
+  <HelpKINode Title="Projection.GetVisibleRegion method" Url="html/62ba2b9c-45b4-7700-184d-415a959aa4c4.htm" />
+  <HelpKINode Title="Projection.ToScreenLocation method" Url="html/25d6dc91-2823-e60e-cd3a-1ec1168bd06e.htm" />
+  <HelpKINode Title="Reason property" Url="html/79bc991a-0ba0-03dd-00d6-e2c18df0b45c.htm" />
+  <HelpKINode Title="ReasonApiAnimation field" Url="html/0e46d2ae-6351-319b-f674-97462501714e.htm" />
+  <HelpKINode Title="ReasonDeveloperAnimation field" Url="html/ea2ab054-2e31-f3de-289b-42ab5f037b8c.htm" />
+  <HelpKINode Title="ReasonGesture field" Url="html/29a5cbfa-5363-5941-c29b-2fa080e12725.htm" />
+  <HelpKINode Title="RefreshStyle method">
+    <HelpKINode Title="IMapView.RefreshStyle Method " Url="html/5703a57b-a749-d2f0-dc72-8e4854e9d85e.htm" />
+    <HelpKINode Title="MapView.RefreshStyle Method " Url="html/fcd44b03-a8c9-85f3-ebcc-060a9a630b0c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Remove method">
+    <HelpKINode Title="Marker.Remove Method " Url="html/bc58de7b-f635-0824-df95-230aecab0864.htm" />
+    <HelpKINode Title="Polyline.Remove Method " Url="html/62644baf-cb96-ea69-7e3f-08a7cc625344.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RotateGesturesEnabled method" Url="html/42b92341-636e-bae6-1c41-d7713d562531.htm" />
+  <HelpKINode Title="RotateGesturesEnabled property" Url="html/0a5bf006-8b72-01a7-bf44-c56b6efddb4c.htm" />
+  <HelpKINode Title="ScrollBy method" Url="html/66af5c6c-a9db-824a-455e-c566f4d780bd.htm" />
+  <HelpKINode Title="ScrollGesturesEnabled method" Url="html/1aef5f2e-dcd1-1d21-38e8-8fa4832c8673.htm" />
+  <HelpKINode Title="ScrollGesturesEnabled property" Url="html/51ffedd6-dd94-793b-43ee-df402ee06d3c.htm" />
+  <HelpKINode Title="SetAllGesturesEnabled method" Url="html/67aa3ff3-41b3-583f-24ec-ba139d0d3e33.htm" />
+  <HelpKINode Title="SetAlpha method" Url="html/68a2c648-8f39-2fac-4813-bd3b0ec5241f.htm" />
+  <HelpKINode Title="SetColor method" Url="html/33e9cde6-1d2f-5836-28c3-78748ea4ebce.htm" />
+  <HelpKINode Title="SetFocalPoint method" Url="html/6d668197-b38e-9458-b87b-a419d8d963c7.htm" />
+  <HelpKINode Title="SetPoints method" Url="html/cac0c7e4-6b87-363a-b0c8-459018c366e1.htm" />
+  <HelpKINode Title="SetStyleJson method">
+    <HelpKINode Title="IMapView.SetStyleJson Method " Url="html/5f36b87b-b4f9-9fbd-6f69-2e3a9dff6056.htm" />
+    <HelpKINode Title="MapView.SetStyleJson Method " Url="html/3dff6e62-f6fb-3fb7-2a9d-510a2008fd6c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetStyleUrl method">
+    <HelpKINode Title="IMapView.SetStyleUrl Method " Url="html/47212b08-6f3b-4d2e-dfc8-27d8aae81d2d.htm" />
+    <HelpKINode Title="MapView.SetStyleUrl Method " Url="html/5a8fa852-5798-3844-b5db-8af37dbf1dd4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetWidth method" Url="html/efb00139-46a0-d3fa-dd33-5b5018d94282.htm" />
+  <HelpKINode Title="SouthWest property" Url="html/6b445f2d-10ba-fee1-ffe0-b1e374d69059.htm" />
+  <HelpKINode Title="StyleUrl method" Url="html/2e1902ed-093f-7391-1d80-692da3e24e6e.htm" />
+  <HelpKINode Title="StyleUrl property">
+    <HelpKINode Title="IMapView.StyleUrl Property " Url="html/f3103e49-6bc4-171c-d648-58738056b324.htm" />
+    <HelpKINode Title="MapView.StyleUrl Property " Url="html/0a3c9181-fbcf-975e-fb30-5e6e493350cb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Tag property">
+    <HelpKINode Title="Marker.Tag Property " Url="html/3191a4c9-b758-df80-9f4b-c6b58c651a79.htm" />
+    <HelpKINode Title="Polyline.Tag Property " Url="html/f0b86ada-d8c0-f588-2d38-aa9fafa5de70.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Target method" Url="html/b3231e57-683e-4f6b-d249-f722670f9c2d.htm" />
+  <HelpKINode Title="Target property" Url="html/a4e85075-c8e2-9664-7a51-3986d0c7cd6c.htm" />
+  <HelpKINode Title="ToFormattedString method" Url="html/53c6df65-1a7f-812b-a14e-78329afed58d.htm" />
+  <HelpKINode Title="ToScreenLocation method" Url="html/25d6dc91-2823-e60e-cd3a-1ec1168bd06e.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="AntaresMapOptions.ToString Method " Url="html/13c85d17-c4fa-ea29-d189-e87d19590ed2.htm" />
+    <HelpKINode Title="BitmapDescriptor.ToString Method " Url="html/504213fd-441b-507b-f8f7-bd15a14798dd.htm" />
+    <HelpKINode Title="CameraPosition.ToString Method " Url="html/1902f43f-755f-f12a-cb8d-d4aa96a290b7.htm" />
+    <HelpKINode Title="LatLng.ToString Method " Url="html/e36d4aaa-174e-c775-fdf1-c00855f8cf2c.htm" />
+    <HelpKINode Title="LatLngBounds.ToString Method " Url="html/9202cb62-3005-4e7c-9115-2fd4ebc8d8f6.htm" />
+    <HelpKINode Title="Marker.ToString Method " Url="html/2a3b915b-700a-4ce8-0364-2d692063f177.htm" />
+    <HelpKINode Title="Polyline.ToString Method " Url="html/3f2c8565-2053-5c48-dc81-024eeafe3881.htm" />
+    <HelpKINode Title="PolylineOptions.ToString Method " Url="html/d4991920-b2b4-59d7-6cfc-c85b620c7cae.htm" />
+    <HelpKINode Title="VisibleRegion.ToString Method " Url="html/601f619b-126a-3f8b-69ed-5e1316a493ca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UiSettings class">
+    <HelpKINode Title="UiSettings Class" Url="html/35b15c34-ec36-03b2-b247-33f243e63b7b.htm" />
+    <HelpKINode Title="about UiSettings class" Url="html/35b15c34-ec36-03b2-b247-33f243e63b7b.htm" />
+    <HelpKINode Title="methods" Url="html/c92f22ce-5cdf-d454-4064-a2dbb37b7798.htm" />
+    <HelpKINode Title="properties" Url="html/b52b13e5-fd8b-6cdc-6436-5beed359f35b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UiSettings property">
+    <HelpKINode Title="IMapView.UiSettings Property " Url="html/449a0fef-78f3-138d-50e0-5b5cf7409332.htm" />
+    <HelpKINode Title="MapView.UiSettings Property " Url="html/1802dba7-1b94-66f4-abb8-b979073ec092.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UiSettings.DeselectMarkersOnTap property" Url="html/87f7db16-4ed0-99d1-62f8-71a5dda59284.htm" />
+  <HelpKINode Title="UiSettings.DoubleTapGesturesEnabled property" Url="html/7a381fb9-9aae-0e5b-6263-66801eb63c12.htm" />
+  <HelpKINode Title="UiSettings.GetDensity method" Url="html/0841c0b3-6f9a-fbe3-9c01-95a03e5666e3.htm" />
+  <HelpKINode Title="UiSettings.GetFocalPoint method" Url="html/354e7956-5bb6-39e5-50ec-a588377585dd.htm" />
+  <HelpKINode Title="UiSettings.RotateGesturesEnabled property" Url="html/0a5bf006-8b72-01a7-bf44-c56b6efddb4c.htm" />
+  <HelpKINode Title="UiSettings.ScrollGesturesEnabled property" Url="html/51ffedd6-dd94-793b-43ee-df402ee06d3c.htm" />
+  <HelpKINode Title="UiSettings.SetAllGesturesEnabled method" Url="html/67aa3ff3-41b3-583f-24ec-ba139d0d3e33.htm" />
+  <HelpKINode Title="UiSettings.SetFocalPoint method" Url="html/6d668197-b38e-9458-b87b-a419d8d963c7.htm" />
+  <HelpKINode Title="UiSettings.ZoomGesturesEnabled property" Url="html/e5294a8f-4391-f084-4f14-e107ec713a28.htm" />
+  <HelpKINode Title="Visible property">
+    <HelpKINode Title="Marker.Visible Property " Url="html/eea51207-4179-5844-0bfb-1ad7260b0655.htm" />
+    <HelpKINode Title="MarkerOptions.Visible Property " Url="html/a1c99824-4369-7450-0f9d-84de36706da7.htm" />
+    <HelpKINode Title="Polyline.Visible Property " Url="html/8e8d0485-5f72-2639-18c1-ecc6ca517cd4.htm" />
+    <HelpKINode Title="PolylineOptions.Visible Property " Url="html/c540ec81-5d59-0184-6de8-2fb132531f6d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VisibleRegion class">
+    <HelpKINode Title="VisibleRegion Class" Url="html/57911d22-ed8a-aa65-d123-e758d3aaa404.htm" />
+    <HelpKINode Title="about VisibleRegion class" Url="html/57911d22-ed8a-aa65-d123-e758d3aaa404.htm" />
+    <HelpKINode Title="constructor" Url="html/4001c9ea-8cb8-e35b-ba6a-c20ccd50104a.htm" />
+    <HelpKINode Title="methods" Url="html/6ed308af-8571-600e-85a1-52f7c718c069.htm" />
+    <HelpKINode Title="properties" Url="html/7526deed-d0d3-8960-e5d9-97d442b33a29.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VisibleRegion.Equals method" Url="html/c181f75d-3c2f-fff5-2b9b-738b1220c7ae.htm" />
+  <HelpKINode Title="VisibleRegion.FarLeft property" Url="html/4444cd6e-470d-8e38-8242-d5eed54914a8.htm" />
+  <HelpKINode Title="VisibleRegion.FarRight property" Url="html/6d39ee68-0f40-108c-3384-955f961d027f.htm" />
+  <HelpKINode Title="VisibleRegion.GetHashCode method" Url="html/084b0a2f-4b67-c968-fdc6-a7106f0fa860.htm" />
+  <HelpKINode Title="VisibleRegion.LatLngbounds property" Url="html/82ea8865-0a85-6478-5704-ad2b1a8392b5.htm" />
+  <HelpKINode Title="VisibleRegion.NearLeft property" Url="html/84ce80dd-9569-c159-7d7b-677499cfa2b9.htm" />
+  <HelpKINode Title="VisibleRegion.NearRight property" Url="html/74408e44-0a77-aa79-d668-9c5a5844fba4.htm" />
+  <HelpKINode Title="VisibleRegion.ToString method" Url="html/601f619b-126a-3f8b-69ed-5e1316a493ca.htm" />
+  <HelpKINode Title="VisibleRegion.VisibleRegion constructor" Url="html/4001c9ea-8cb8-e35b-ba6a-c20ccd50104a.htm" />
+  <HelpKINode Title="Width property">
+    <HelpKINode Title="Polyline.Width Property " Url="html/c20ff069-5089-eb0b-ad48-e1f953287802.htm" />
+    <HelpKINode Title="PolylineOptions.Width Property " Url="html/8f5487e1-94c1-7bcd-e5cf-590967c2dae7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Zoom method" Url="html/dcb9694d-ca44-90c5-2816-09168219658d.htm" />
+  <HelpKINode Title="Zoom property" Url="html/c2a2744b-9519-979e-8903-ffdbc31d1bb5.htm" />
+  <HelpKINode Title="ZoomBy method" Url="html/5c4d5e9c-1c70-a9ea-2e9f-4dfde79992a1.htm" />
+  <HelpKINode Title="ZoomGesturesEnabled method" Url="html/106416c1-f2aa-33b4-0438-be673c18e470.htm" />
+  <HelpKINode Title="ZoomGesturesEnabled property" Url="html/e5294a8f-4391-f084-4f14-e107ec713a28.htm" />
+  <HelpKINode Title="ZoomIn method" Url="html/450449e9-5878-1c86-9560-3f95a1a6b26b.htm" />
+  <HelpKINode Title="ZoomOut method" Url="html/04094214-0f3c-c665-c900-cdfad3a5f32c.htm" />
+  <HelpKINode Title="ZoomTo method" Url="html/cd10de27-e9ee-1fc7-6e3f-e9ad6f2c43b2.htm" />
+</HelpKI>
