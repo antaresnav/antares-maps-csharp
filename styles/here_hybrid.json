@@ -1,0 +1,21 @@
+{
+  "version": 8,
+  "sources": {
+    "here": {
+      "type": "raster",
+      "maxzoom": 19,
+      "minzoom":  4,
+      "tiles": [
+        "http://1.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{z}/{x}/{y}/256/png8?app_id=EL2SZfhk3vXSc680MN4h&token=7gkMT2CBda_-v5ITRfD3Ew&lg=HUN"
+      ],
+      "tileSize": 256
+    }
+  },
+  "layers": [
+    {
+      "id": "here_hybrid",
+      "type": "raster",
+      "source": "here"
+    }
+  ]
+}
