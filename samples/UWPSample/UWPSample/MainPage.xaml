@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="UWPSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:map="using:AntaresMaps.Map"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <map:MapView x:Name="MapView"></map:MapView>
+        <ComboBox x:Name="ComboBox" HorizontalAlignment="Left" Height="35" Margin="20,40,0,0" VerticalAlignment="Top" Width="150" SelectionChanged="comboBox_SelectionChanged">
+            <ComboBoxItem Name="OsmBright" IsSelected="True">Osm Bright</ComboBoxItem>
+            <ComboBoxItem Name="OsmBasic">Osm Basic</ComboBoxItem>
+            <ComboBoxItem Name="HereHybrid">Here Hybrid</ComboBoxItem>
+            <ComboBoxItem Name="OfflineMap">Offline map</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Page>
