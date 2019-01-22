@@ -10,7 +10,8 @@
       "maxzoom": 15,
       "minzoom":  4,
       "type": "vector",
-      "url": "file://osm-hun_e-full_z0-15_v3_tiles.mbtiles"
+      "url": "file://osm-hun_e-full_z0-15_v3_tiles.mbtiles",
+	  "scheme":  "tms"
     }
   },
   "glyphs": "https://terkep.geox.hu/timon/mapdata/vectiles/supplement/glyphs/{fontstack}/{range}.pbf",
