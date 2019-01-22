@@ -9,11 +9,16 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <map:MapView x:Name="MapView"></map:MapView>
-        <ComboBox x:Name="ComboBox" HorizontalAlignment="Left" Height="35" Margin="20,40,0,0" VerticalAlignment="Top" Width="150" SelectionChanged="comboBox_SelectionChanged">
-            <ComboBoxItem Name="OsmBright" IsSelected="True">Osm Bright</ComboBoxItem>
-            <ComboBoxItem Name="OsmBasic">Osm Basic</ComboBoxItem>
-            <ComboBoxItem Name="HereHybrid">Here Hybrid</ComboBoxItem>
-            <ComboBoxItem Name="OfflineMap">Offline map</ComboBoxItem>
+        <ComboBox x:Name="ComboBox" HorizontalAlignment="Left" Height="35" Margin="20,40,0,0" VerticalAlignment="Top" Width="185" SelectionChanged="comboBox_SelectionChanged">
+
+            <ComboBoxItem Name="OsmBright" IsSelected="True">Osm vector</ComboBoxItem>
+            <ComboBoxItem Name="OsmBasic">Osm basic vector</ComboBoxItem>
+            <ComboBoxItem Name="Openmaptiles">Openmaptiles vector</ComboBoxItem>
+            <ComboBoxItem Name="Dsm">DSM V2 vector</ComboBoxItem>
+            <ComboBoxItem Name="HereHybrid">Satellite raster</ComboBoxItem>
+            <ComboBoxItem Name="OfflineMap">Offline vector</ComboBoxItem>
+            <ComboBoxItem Name="Custom">Custom URL</ComboBoxItem>
         </ComboBox>
+        <Button x:Name="reloadButton" Content="Reload" HorizontalAlignment="Left" Margin="215,40,0,0" VerticalAlignment="Top" Height="35" Click="ReloadButton_Click"/>
     </Grid>
 </Page>
