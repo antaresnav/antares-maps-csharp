@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="UWPSample.Scenarios.Scenario4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:map="using:AntaresMaps.Map"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="12,20,12,12">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <VariableSizedWrapGrid Grid.Row="0" Orientation="Horizontal" ItemWidth="145" ItemHeight="50">
+                <CheckBox x:Name="scrollCB" Content="Scroll gestures" Margin="3" Checked="ScrollCB_Checked" Unchecked="ScrollCB_Unchecked" IsChecked="True" />
+                <CheckBox x:Name="compassCB" Content="Compass" Margin="3" Checked="CompassCB_Checked" Unchecked="CompassCB_Unchecked" IsChecked="True" />
+                <CheckBox x:Name="zoomCB" Content="Zoom gestures" Margin="3" Checked="ZoomCB_Checked" Unchecked="ZoomCB_Unchecked" IsChecked="True" />
+            </VariableSizedWrapGrid>
+            <map:MapView Grid.Row="1" x:Name="mMap" MapReady="MMap_MapReady"/>
+        </Grid>
+    </Grid>
+</Page>

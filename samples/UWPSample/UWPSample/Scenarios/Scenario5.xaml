@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="UWPSample.Scenarios.Scenario5"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:map="using:AntaresMaps.Map"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="12,20,12,12">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <VariableSizedWrapGrid Grid.Row="0" Orientation="Horizontal" ItemWidth="145" ItemHeight="60">
+                <Slider x:Name="hueBar" Header="Hue" VerticalAlignment="Center" Margin="10,3,10,3" Maximum="360" ValueChanged="HueBar_ValueChanged" />
+                <Slider x:Name="alphaBar" Header="Alpha" VerticalAlignment="Center" Margin="10,3,10,3" Maximum="255" ValueChanged="AlphaBar_ValueChanged" Value="255" />
+                <Slider x:Name="widthBar" Header="Width" VerticalAlignment="Center" Maximum="100" ValueChanged="WidthBar_ValueChanged" Value="20" Margin="10,3,10,3" />
+            </VariableSizedWrapGrid>
+            <map:MapView Grid.Row="1" x:Name="mMap" MapReady="MMap_MapReady"/>
+        </Grid>
+    </Grid>
+</Page>

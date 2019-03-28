@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="63EB3DE0.AntaresMapsDemo" Publisher="CN=4ECA426F-FA56-418B-A4DC-57AC507D8B85" Version="0.2.2.0" />
+  <Identity Name="63EB3DE0.AntaresMapsDemo" Publisher="CN=4ECA426F-FA56-418B-A4DC-57AC507D8B85" Version="0.2.5.0" />
   <mp:PhoneIdentity PhoneProductId="7f7cf29f-3e5b-4609-860a-5b3d539e47c5" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>AntaresMaps Demo</DisplayName>
@@ -29,5 +29,7 @@
   </Applications>
   <Capabilities>
     <Capability Name="internetClient" />
+    <Capability Name="privateNetworkClientServer" />
+    <Capability Name="internetClientServer" />
   </Capabilities>
 </Package>

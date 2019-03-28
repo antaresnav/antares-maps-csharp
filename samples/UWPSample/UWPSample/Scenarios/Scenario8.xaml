@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="UWPSample.Scenarios.Scenario8"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:map="using:AntaresMaps.Map"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="12,20,12,12">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <VariableSizedWrapGrid Grid.Row="0" Orientation="Horizontal" ItemWidth="120" ItemHeight="45">
+                <CheckBox x:Name="buildingCB" Content="Building" Margin="3" IsChecked="True" Checked="BuildingCB_Checked" Unchecked="BuildingCB_Unchecked" />
+                <CheckBox x:Name="railwayCB" Content="Railway" Margin="3" IsChecked="True" Checked="RailwayCB_Checked" Unchecked="RailwayCB_Unchecked" />
+                <CheckBox x:Name="streetCB" Content="Street" Margin="3" IsChecked="True" Checked="StreetCB_Checked" Unchecked="StreetCB_Unchecked" />
+                <CheckBox x:Name="streetNameCB" Content="Street name" Margin="3" IsChecked="True" Checked="StreetNameCB_Checked" Unchecked="StreetNameCB_Unchecked" />
+            </VariableSizedWrapGrid>
+            <map:MapView Grid.Row="1" x:Name="mMap" MapReady="MMap_MapReady"/>
+        </Grid>
+    </Grid>
+</Page>

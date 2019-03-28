@@ -1,0 +1,80 @@
+﻿<Page
+    x:Class="UWPSample.Scenarios.Scenario2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:map="using:AntaresMaps.Map"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="12,20,12,12">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <VariableSizedWrapGrid Grid.Row="0" Orientation="Horizontal" ItemWidth="160" ItemHeight="120">
+                <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Padding="0,0,10,10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="scrollLeft" Grid.RowSpan="2" Grid.Row="0" Grid.Column="0" Width="47" VerticalAlignment="Center" Content="←" Margin="3" Click="ScrollLeft_Click"/>
+                    <Button x:Name="scrollUp" Grid.Row="0" Grid.Column="1" Width="47" Content="↑" Margin="3" Click="ScrollUp_Click"/>
+                    <Button x:Name="scrollDown" Grid.Row="1" Grid.Column="1" Width="47" Content="↓" Margin="3" Click="ScrollDown_Click"/>
+                    <Button x:Name="scrollRight" Grid.RowSpan="2" Grid.Row="0" Grid.Column="2" Width="47" VerticalAlignment="Center" Content="→" Margin="3" Click="ScrollRight_Click"/>
+                </Grid>
+
+                <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Padding="0,0,10,10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="zoomIn" Grid.Row="0" Grid.Column="0" Width="47" VerticalAlignment="Center" Content="+" Margin="3" Click="ZoomIn_Click"/>
+                    <Button x:Name="zoomOut" Grid.Row="1" Grid.Column="0" Width="47" VerticalAlignment="Center" Content="-" Margin="3" Click="ZoomOut_Click"/>
+                    <Button x:Name="rotateLeft" Grid.Row="0" Grid.Column="1" Width="47" VerticalAlignment="Center" Content="↶" Margin="3" Click="RotateLeft_Click"/>
+                    <Button x:Name="rotateRight" Grid.Row="1" Grid.Column="1" Width="47" VerticalAlignment="Center" Content="↷" Margin="3" Click="RotateRight_Click"/>
+                </Grid>
+
+                <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Padding="0,0,10,10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <CheckBox x:Name="animateCB" Grid.Row="0" Width="47" VerticalAlignment="Center" Content="Animate" Margin="3" Checked="AnimateCB_Checked" Unchecked="AnimateCB_Unchecked" IsChecked="True"/>
+                    <CheckBox x:Name="customDurationCB" Grid.Row="1" VerticalAlignment="Center" Content="Custom duration" Margin="3" Checked="CustomDurationCB_Checked" Unchecked="CustomDurationCB_Unchecked"/>
+                    <Slider x:Name="customDurationBar" Grid.Row="2" VerticalAlignment="Center" Minimum="1" Maximum="5000" Value="1" IsEnabled="False" />
+                </Grid>
+
+                <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Padding="0,0,10,10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="budapestButton" Grid.Row="0" Grid.Column="0" Width="130" Content="Go to Budapest" Margin="3" Click="BudapestButton_Click"/>
+                    <Button x:Name="parliamentButton" Grid.Row="1" Grid.Column="0" Width="130" Content="Go to Parliament" Margin="3" Click="ParliamentButton_Click"/>
+                    <Button x:Name="stopButton" Grid.Row="2" Grid.Column="0" Width="130" Content="Stop animation" Margin="3" Click="StopButton_Click"/>
+                </Grid>
+
+            </VariableSizedWrapGrid>
+
+            <map:MapView Grid.Row="1" x:Name="mMap" MapReady="MMap_MapReady"/>
+        </Grid>
+    </Grid>
+</Page>

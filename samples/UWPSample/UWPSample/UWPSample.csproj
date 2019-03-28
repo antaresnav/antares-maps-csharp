@@ -106,12 +106,60 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SampleConfiguration.cs" />
+    <Compile Include="Scenarios\Scenario1.xaml.cs">
+      <DependentUpon>Scenario1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenarios\Scenario2.xaml.cs">
+      <DependentUpon>Scenario2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenarios\Scenario3.xaml.cs">
+      <DependentUpon>Scenario3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenarios\Scenario4.xaml.cs">
+      <DependentUpon>Scenario4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenarios\Scenario5.xaml.cs">
+      <DependentUpon>Scenario5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenarios\Scenario6.xaml.cs">
+      <DependentUpon>Scenario6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenarios\Scenario7.xaml.cs">
+      <DependentUpon>Scenario7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenarios\Scenario8.xaml.cs">
+      <DependentUpon>Scenario8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenarios\Scenario9.xaml.cs">
+      <DependentUpon>Scenario9.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <Content Include="osm-hun_e-full_z0-15_v3_tiles.mbtiles" />
+    <Content Include="Images\MapMarker_Flag1_Right_Azure.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Black.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Blue.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Chartreuse.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Green.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Grey.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Orange.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Pink.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Red.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Violet.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_White.png" />
+    <Content Include="Images\MapMarker_Flag1_Right_Yellow.png" />
+    <Content Include="Map\map-source.mbtiles">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Styles\demoMapStyle.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Styles\map-style.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="UWPSample_StoreKey.pfx" />
     <None Include="UWPSample_TemporaryKey.pfx" />
   </ItemGroup>
@@ -172,8 +220,48 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Page Include="MainPage.xaml">
-      <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenarios\Scenario9.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
